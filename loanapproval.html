@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- TO MAKE THE PYTHON FILE WORK -->
+
+<!-- 1. Uncomment The JS File With "url_for" -->
+<!-- 2. Comment The Default JS File" -->
+<!-- 3. Then Run This Command In Terminal "python app.js" -->
+<!-- 4.  Flask Use "Templates" This File Don't Have That. Find The File "Final Year Project With Backend. Then Proceed With These Steps"-->
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -501,10 +508,8 @@
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
     crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="{{ url_for('static', filename='js/loanapproval.js') }}"></script>
-  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script>
-  <script src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
-  <script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script> -->
+  <script src="static/js/loanapproval.js"></script>
+  <!-- <script src="{{ url_for('static', filename='js/loanapproval.js') }}"></script> -->
 
   <script>
     document.addEventListener("DOMContentLoaded", () => {
