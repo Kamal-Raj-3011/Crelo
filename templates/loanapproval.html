@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loan Approval Check | Crelo</title>
+  <meta name="description"
+    content="Check your loan approval chances instantly with Crelo. Get smart insights based on income, credit score, and loan details.">
+
+  <link rel="stylesheet" href="../static/css/loanapproval.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css" rel="stylesheet" />
+
+</head>
+
+<body class="bg-light">
+
+  <!-- HEADER STARTS -->
+  <header class="sticky-top bg-light shadow-sm">
+    <div class="container py-3">
+      <div class="d-flex justify-content-between align-items-center">
+
+        <!-- LEFT SIDE -->
+        <nav class="d-none d-md-flex gap-4">
+          <a href="index.html" class="text-dark text-decoration-none nav-link" aria-current="page">Home</a>
+          <a href="loanapproval.html" class="text-dark text-decoration-none active fw-bold nav-link">Loan Approval</a>
+        </nav>
+
+        <!-- HAMBUGER MENU LEFT -->
+        <button class="btn d-md-none" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu1">
+          <i class="ri-menu-2-fill fs-4 text-black fw-semibold"></i>
+        </button>
+
+        <!-- LOGO -->
+        <div class="text-center">
+          <h3 class="site-name">Crelo</h3>
+          <!-- <img src="assets/img/Logo.png" alt="Company Logo" class="img-fluid" style="max-height: 45px;"> -->
+        </div>
+
+        <!-- RIGHT SIDE -->
+        <nav class="d-none d-md-flex gap-4">
+          <a href="emiCal.html" class="text-dark text-decoration-none nav-link">EMI Calculator</a>
+          <a href="tips.html" class="text-dark text-decoration-none nav-link">Tips & Tricks</a>
+        </nav>
+
+        <!-- HANDBURGER MENU RIGHT -->
+        <button class="btn d-md-none" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu2">
+          <i class="ri-menu-3-fill fs-4 text-black fw-semibold"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- MOBILE NAVBAR STARTS -->
+    <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="mobileMenu1">
+
+      <div class="offcanvas-header border-bottom border-secondary px-4">
+        <div class="d-flex flex-column">
+          <h5 class="offcanvas-title fw-bold mb-0">Navigation</h5>
+          <small class="text-secondary">Manage & Explore</small>
+        </div>
+
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+
+      <div class="offcanvas-body px-4 py-4 d-flex flex-column justify-content-between">
+
+        <div class="d-flex flex-column gap-2 fw-semibold">
+
+          <a href="index.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Home
+          </a>
+
+          <a href="loanapproval.html"
+            class="nav-link text-white d-flex align-items-center gap-3 py-2 rounded bg-secondary bg-opacity-25">
+            <span class="text-info fw-bold">▸</span> Loan Approval
+          </a>
+
+          <a href="emiCal.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> EMI Calculator
+          </a>
+
+          <a href="tips.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Tips & Tricks
+          </a>
+
+        </div>
+
+        <div class="pt-4 border-top border-secondary">
+
+          <small class="text-secondary d-block mt-3">
+            Secure • Fast • Trusted
+          </small>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="offcanvas offcanvas-end bg-dark text-white" tabindex="-1" id="mobileMenu2">
+
+      <div class="offcanvas-header border-bottom border-secondary px-4">
+
+        <div class=" d-flex align-items-center justify-content-between w-100">
+
+          <div>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
+              aria-label="Close"></button>
+          </div>
+
+          <div>
+            <div class="d-flex flex-column">
+              <h5 class="offcanvas-title text-end fw-bold mb-0">Navigation</h5>
+              <small class="text-secondary">Manage & Explore</small>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="offcanvas-body px-4 py-4 d-flex flex-column justify-content-between text-end">
+
+        <div class="d-flex flex-column gap-2 fw-semibold align-items-end">
+
+          <a href="index.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Home <span class="text-info">◂</span>
+          </a>
+
+          <a href="loanapproval.html"
+            class="nav-link text-white d-flex align-items-center gap-3 py-2 rounded bg-secondary bg-opacity-25 justify-content-end w-100">
+            Loan Approval <span class="text-info fw-bold">◂</span>
+          </a>
+
+          <a href="emiCal.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            EMI Calculator <span class="text-info">◂</span>
+          </a>
+
+          <a href="tips.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Tips & Tricks <span class="text-info">◂</span>
+          </a>
+
+        </div>
+
+        <div class="pt-4 border-top border-secondary text-end">
+
+          <small class="text-secondary d-block mt-3">
+            Secure • Fast • Trusted
+          </small>
+
+        </div>
+
+      </div>
+
+    </div>
+    <!-- MOBILE NAVBAR ENDS -->
+
+  </header>
+  <!-- HEADER ENDS -->
+
+  <!-- MAIN STARTS -->
+  <main class="d-none">
+
+    <!-- --------------------------------------------------------------------------------------- -->
+
+    <!-- SECTION 1 STARTS -->
+    <section class="section1 container-fluid d-flex justify-content-center align-items-center"
+      style="min-height: 88vh;">
+
+      <div class="container">
+        <div class="row g-4 justify-content-center">
+
+          <!-- LEFT CARD -->
+          <div class="col-12 col-lg-4 mt-sm-5 mt-md-0">
+            <div class="card h-100 shadow-lg">
+              <div class="card-body">
+
+                <h3 class="fw-semibold">Loan Approval Prediction</h3>
+                <p class="text-muted">
+                  Fill in the details to instantly check approval chances.
+                </p>
+                <form method="POST">
+
+                  <!-- Loan Type -->
+                  <div class="mb-3">
+                    <label class="form-label">Loan Type</label>
+                    <select id="loanType" name="loan_type" class="form-select" required>
+                      <option value="">Select Loan Type</option>
+                      <option value="home">Home Loan</option>
+                      <option value="business">Business Loan</option>
+                    </select>
+                  </div>
+
+                  <!-- Bank -->
+                  <div class="mb-3">
+                    <label class="form-label">Bank</label>
+                    <select id="bank" name="bank" class="form-select" required>
+                      <option value="">Select Bank</option>
+                      <option value="ICICI">ICICI Bank</option>
+                      <option value="Axis">Axis Bank</option>
+                    </select>
+                  </div>
+
+              </div>
+            </div>
+          </div>
+
+          <!-- RIGHT CARD -->
+          <div class="col-12 col-lg-8 mt-sm-5 mt-md-0">
+            <div class="card h-100 shadow-lg" style="background: linear-gradient(85deg, #00102a, #093c94);">
+              <div class="card-body">
+
+                <!-- IMAGE (INITIAL STATE) -->
+                <div id="rightImage" class="text-center">
+                  <img src="../static/img/Loan Approval.png" class="img-fluid" style="max-width:300px"
+                    alt="Loan Illustration">
+                  <p class="text-white mt-3">
+                    Select a loan type and bank to continue
+                  </p>
+                </div>
+
+
+                <!-- HOME LOAN FIELDS -->
+                <div id="homeFields" class="d-none text-white">
+
+                  <div class="row mb-3">
+                    <div class="col-md-6">
+                      <label>Applicant Type</label>
+                      <select name="applicant_type_home" class="form-select">
+                        <option value="">Select</option>
+                        <option value="Salaried">Salaried</option>
+                        <option value="Self-Employed">Self-Employed</option>
+                        <option value="Professional">Professional</option>
+                      </select>
+                    </div>
+
+                    <div class="col-md-6">
+                      <label>Age</label>
+                      <input type="number" name="age" class="form-control" min="21" max="65">
+                    </div>
+                  </div>
+
+                  <div class="row mb-3">
+                    <div class="col-md-6">
+                      <label>Monthly Income (₹)</label>
+                      <input type="number" name="monthly_income" class="form-control">
+                    </div>
+
+                    <div class="col-md-6">
+                      <label>Loan Amount (₹)</label>
+                      <input type="number" name="loan_amount_home" class="form-control">
+                    </div>
+                  </div>
+
+                  <div class="row mb-3">
+                    <div class="col-md-6">
+                      <label>Property Value (₹)</label>
+                      <input type="number" name="property_value" class="form-control">
+                    </div>
+
+                    <div class="col-md-6">
+                      <label>Credit Score</label>
+                      <input type="number" name="credit_score_home" class="form-control" min="300" max="900">
+                    </div>
+                  </div>
+
+                  <div class="mb-3">
+                    <label>Employment Stability</label>
+                    <select name="employment_stability" class="form-select">
+                      <option value="">Select</option>
+                      <option value="Stable">Stable</option>
+                      <option value="Unstable">Unstable</option>
+                    </select>
+                  </div>
+
+                </div>
+
+                <!-- BUSINESS LOAN FIELDS -->
+                <div id="businessFields" class="d-none text-white">
+
+                  <div class="row mb-3">
+                    <div class="col-md-6">
+                      <label>Applicant Type</label>
+                      <select name="applicant_type_business" class="form-select">
+                        <option value="">Select</option>
+                        <option value="Proprietor">Proprietor</option>
+                        <option value="Partnership">Partnership</option>
+                        <option value="LLP">LLP</option>
+                        <option value="Pvt Ltd">Pvt Ltd</option>
+                        <option value="Trust">Trust</option>
+                      </select>
+                    </div>
+
+                    <div class="col-md-6">
+                      <label>Business Vintage (Years)</label>
+                      <input type="number" name="business_vintage" class="form-control">
+                    </div>
+                  </div>
+
+                  <div class="row mb-3">
+                    <div class="col-md-6">
+                      <label>Annual Turnover (₹)</label>
+                      <input type="number" name="annual_turnover" class="form-control">
+                    </div>
+
+                    <div class="col-md-6">
+                      <label>Profit After Tax (₹)</label>
+                      <input type="number" name="profit_after_tax" class="form-control">
+                    </div>
+                  </div>
+
+                  <div class="row mb-3">
+                    <div class="col-md-6">
+                      <label>Credit Score</label>
+                      <input type="number" name="credit_score_business" class="form-control" min="300" max="900">
+                    </div>
+
+                    <div class="col-md-6">
+                      <label>Collateral Required</label>
+                      <select name="collateral_required" class="form-select">
+                        <option value="">Select</option>
+                        <option value="Yes">Yes</option>
+                        <option value="No">No</option>
+                      </select>
+                    </div>
+                  </div>
+
+                </div>
+
+                <!-- SUBMIT -->
+                <div id="submitBtn" class="text-center mt-4 d-none">
+                  <button type="submit" class="btn px-5 py-2 fw-semibold text-dark
+           shadow-lg rounded-pill
+           d-inline-flex align-items-center gap-2" style="background: linear-gradient(135deg, #ffc107, #ffda6a);">
+                    <span>Submit</span>
+                    <span class="fs-5">→</span>
+                  </button>
+                </div>
+
+
+                </form>
+                {% if result %}
+                <div id="resultContainer" class="text-center text-white">
+                  <h4>Result: {{ result }}</h4>
+                  <canvas id="probaChart" width="400" height="200"
+                    data-probs='{"Rejected":{{ probs["Rejected"] }},"Approved":{{ probs["Approved"] }}}'>
+                  </canvas>
+                </div>
+                {% endif %}
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- SECTION 1 ENDS -->
+
+    <!-- --------------------------------------------------------------------------------------- -->
+
+  </main>
+  <!-- MAIN ENDS -->
+
+  <!-- DUMMY MAIN PAGE STARTS -->
+  <main>
+
+    <!-- DUMMY SECTION 1 STARTS -->
+    <section class="container-fluid d-flex align-items-center" style="min-height: 89vh; background-color: #ffffff;">
+      <div class="container">
+
+        <div class="row align-items-center justify-content-center text-center text-md-start">
+
+          <!-- GIF Column -->
+          <div class="col-12 col-md-6 mb-4 mb-md-0 d-flex justify-content-center">
+            <img src="../static/img/Decline Animation.gif" alt="Transaction failed illustration" class="img-fluid"
+              style="max-width: 380px;">
+          </div>
+
+          <!-- Content Column -->
+          <div class="col-12 col-md-6">
+
+            <h1 class="display-1 fw-bold text-primary">404</h1>
+
+            <h4 class="fw-semibold mt-2">
+              Page Not Found
+            </h4>
+
+            <p class="text-muted mt-3" style="max-width: 520px;">
+              The page you are trying to reach doesn’t exist or is currently unavailable.
+              Please return to a safe location or contact support.
+            </p>
+
+            <div class="d-flex gap-3 mt-4 justify-content-center justify-content-md-start flex-wrap">
+              <a href="../templates/index.html"
+                class="btn btn-primary px-4 py-2 d-inline-flex align-items-center gap-2 fw-semibold shadow-sm">
+                <span>Go to Dashboard</span>
+                <span aria-hidden="true">→</span>
+              </a>
+            </div>
+
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- DUMMY SECTION 1 ENDS -->
+
+  </main>
+  <!-- DUMMY MAIN PAGE ENDS -->
+
+  <!-- FOOTER STARTS -->
+  <footer class="text-light pt-5 pb-4" style="background: linear-gradient(85deg, #00102a, #093c94);">
+
+    <div class="container px-3 px-md-4">
+
+      <div class="row gy-4 text-center text-md-start">
+
+        <!-- Brand -->
+        <div class="col-12 col-md-4">
+          <h5 class="site-name">Crelo</h5>
+          <p class="small mt-2 mb-0">
+            A smart platform to understand your loan approval chances using secure,
+            data-driven insights.
+          </p>
+        </div>
+
+        <!-- Mobile Divider -->
+        <hr class="d-md-none my-3 opacity-50">
+
+        <!-- Navigation -->
+        <div class="col-6 col-md-2">
+          <h6 class="fw-semibold">Quick Links</h6>
+          <ul class="list-unstyled mt-3 mb-0">
+            <li class="mb-2"><a href="index.html" class="text-white text-decoration-none">Home</a></li>
+            <li class="mb-2"><a href="loanapproval.html" class="text-white text-decoration-none">Loan Approval</a></li>
+            <li class="mb-2"><a href="emiCal.html" class="text-white text-decoration-none">Emi Calculator</a></li>
+            <li><a href="tips.html" class="text-white text-decoration-none">Tips & Tricks</a></li>
+          </ul>
+        </div>
+
+        <!-- Legal -->
+        <div class="col-6 col-md-3">
+          <h6 class="fw-semibold">Legal</h6>
+          <ul class="list-unstyled mt-3 mb-0">
+            <li class="mb-2"><a href="#" class="text-white text-decoration-none">Privacy Policy</a></li>
+            <li class="mb-2"><a href="#" class="text-white text-decoration-none">Terms of Service</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Data Security</a></li>
+          </ul>
+        </div>
+
+        <!-- Mobile Divider -->
+        <hr class="d-md-none my-3 opacity-50">
+
+        <!-- Trust -->
+        <div class="col-12 col-md-3">
+          <h6 class="fw-semibold">Trust & Security</h6>
+          <p class="small mt-3 mb-0">
+            Your information is processed securely and never shared without your consent.
+            Checking approval chances does not affect your credit score.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Desktop Divider -->
+      <hr class="border-secondary my-4 d-none d-md-block">
+
+      <!-- Bottom -->
+      <div class="d-flex flex-column flex-md-row justify-content-between align-items-center text-center text-md-start">
+
+        <p class="small mb-2 mb-md-0">
+          © 2025 Crelo. All rights reserved.
+        </p>
+
+        <p class="small mb-0">
+          Built for clarity. Designed for trust.
+        </p>
+
+      </div>
+
+    </div>
+  </footer>
+  <!-- FOOTER ENDS -->
+
+
+
+  <!-- JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="{{ url_for('static', filename='js/loanapproval.js') }}"></script>
+  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script>
+  <script src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
+  <script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script> -->
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const homeFields = document.getElementById("homeFields");
+      const businessFields = document.getElementById("businessFields");
+      const rightImage = document.getElementById("rightImage");
+      const submitBtn = document.getElementById("submitBtn");
+      const resultContainer = document.getElementById("resultContainer");
+      const loanType = document.getElementById("loanType");
+      const bank = document.getElementById("bank");
+
+      // On loan type change
+      loanType.addEventListener("change", () => {
+
+        // Hide previous result
+        if (resultContainer) resultContainer.innerHTML = "";
+
+        // Hide all loan fields and submit button
+        homeFields.classList.add("d-none");
+        businessFields.classList.add("d-none");
+        submitBtn.classList.add("d-none");
+
+        // Show relevant fields
+        if (loanType.value === "home") {
+          rightImage.classList.add("d-none");
+          homeFields.classList.remove("d-none");
+          submitBtn.classList.remove("d-none");
+        } else if (loanType.value === "business") {
+          rightImage.classList.add("d-none");
+          businessFields.classList.remove("d-none");
+          submitBtn.classList.remove("d-none");
+        } else {
+          // If loan type is reset
+          rightImage.classList.remove("d-none");
+        }
+
+        // Reset bank selection (optional)
+        bank.selectedIndex = 0;
+      });
+
+      // On page load: hide fields if no loan type selected
+      if (loanType.value === "") {
+        homeFields.classList.add("d-none");
+        businessFields.classList.add("d-none");
+        submitBtn.classList.add("d-none");
+        rightImage.classList.remove("d-none");
+      }
+
+      // Hide image when the result is displayed (if resultContainer exists)
+      if (resultContainer && resultContainer.innerHTML.trim() !== "") {
+        rightImage.classList.add("d-none");
+        homeFields.classList.add("d-none");
+        businessFields.classList.add("d-none");
+        submitBtn.classList.add("d-none");
+      }
+    });
+  </script>
+
+
+
+
+
+</body>
+
+</html>

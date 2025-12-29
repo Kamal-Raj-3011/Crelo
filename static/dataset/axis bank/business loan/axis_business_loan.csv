@@ -1,0 +1,1342 @@
+Bank,Applicant_Type,Age,Business_Vintage,Annual_Turnover,Profit_After_Tax,Credit_Score,Collateral_Required,Approval_Status
+Axis,Proprietor,27,6,9287748,4930202,677,Yes,Rejected
+Axis,LLP,37,4,30238283,842182,677,Yes,Approved
+Axis,LLP,21,5,7889604,4600450,667,No,Approved
+Axis,LLP,42,10,26081653,4065076,900,Yes,Approved
+Axis,Partnership,46,10,24124637,4114135,886,Yes,Approved
+Axis,Trust,45,6,7895526,3975559,786,No,Rejected
+Axis,Trust,40,3,31822719,925554,739,No,Approved
+Axis,Pvt Ltd,41,3,31092458,850649,785,No,Approved
+Axis,LLP,19,4,7012235,4784119,680,No,Approved
+Axis,Pvt Ltd,25,6,8473191,5058714,720,No,Rejected
+Axis,Trust,44,3,29127595,860748,671,No,Approved
+Axis,Proprietor,27,6,8381649,4789748,690,No,Rejected
+Axis,Proprietor,37,4,33543909,941267,696,Yes,Approved
+Axis,Partnership,26,10,31478182,2133207,743,Yes,Approved
+Axis,Proprietor,40,10,23492218,4132983,819,No,Approved
+Axis,Pvt Ltd,28,9,27133968,2401111,623,Yes,Approved
+Axis,Proprietor,41,10,24732711,3951498,833,No,Approved
+Axis,Trust,28,6,7945021,5089464,703,No,Rejected
+Axis,Partnership,25,10,28204350,2092162,722,Yes,Approved
+Axis,Partnership,28,9,28924164,2438519,639,Yes,Approved
+Axis,Pvt Ltd,20,5,8055483,4238455,743,No,Approved
+Axis,Partnership,43,3,33804855,880023,671,No,Approved
+Axis,LLP,24,5,7878054,4513910,761,No,Rejected
+Axis,Partnership,42,3,28851133,880258,700,Yes,Approved
+Axis,Pvt Ltd,45,5,8707914,4082417,719,No,Rejected
+Axis,Trust,45,5,7369455,4293254,731,Yes,Rejected
+Axis,Partnership,42,10,24667598,4208866,876,Yes,Approved
+Axis,Pvt Ltd,20,4,6997457,4491438,684,No,Approved
+Axis,Trust,50,6,8227236,4137693,747,Yes,Rejected
+Axis,Proprietor,20,4,7607235,4954283,660,No,Approved
+Axis,Pvt Ltd,21,5,8380498,4651097,632,Yes,Approved
+Axis,Trust,26,5,8591072,4324737,789,Yes,Rejected
+Axis,Trust,50,5,7481955,4637891,795,Yes,Rejected
+Axis,Partnership,25,10,27903446,2396661,692,No,Approved
+Axis,Partnership,42,4,32829662,842553,739,No,Approved
+Axis,Proprietor,46,5,7583219,4785966,735,No,Rejected
+Axis,Partnership,26,6,7752806,4368729,781,Yes,Rejected
+Axis,Pvt Ltd,46,6,8600587,4492889,793,Yes,Rejected
+Axis,Proprietor,19,4,8062972,4273962,695,Yes,Approved
+Axis,Trust,52,5,7507038,4305059,757,No,Rejected
+Axis,Trust,29,10,27380513,2265515,739,Yes,Approved
+Axis,Trust,20,4,7312810,4323395,707,Yes,Approved
+Axis,Partnership,52,5,8097540,4658070,670,Yes,Rejected
+Axis,Trust,29,5,8321555,5174414,658,Yes,Rejected
+Axis,Trust,29,6,7722032,4453476,716,No,Rejected
+Axis,Pvt Ltd,24,6,8346600,4505543,797,Yes,Rejected
+Axis,Trust,28,6,9304213,4391875,796,No,Rejected
+Axis,Pvt Ltd,19,4,7613193,4345883,713,Yes,Approved
+Axis,Trust,45,5,7733132,4729099,723,No,Rejected
+Axis,Pvt Ltd,52,6,7976437,4223125,806,Yes,Rejected
+Axis,Partnership,26,9,29806113,2053569,753,Yes,Approved
+Axis,LLP,40,3,32696087,846473,718,Yes,Approved
+Axis,Trust,19,4,7884743,4914188,671,No,Approved
+Axis,Pvt Ltd,41,10,24839815,3794962,880,Yes,Approved
+Axis,LLP,45,9,26394694,3951379,845,No,Approved
+Axis,Trust,45,10,25013190,3622702,831,No,Approved
+Axis,Trust,44,5,8689355,4134137,681,No,Rejected
+Axis,Trust,47,5,8446131,4593091,673,No,Rejected
+Axis,Partnership,24,5,7705256,4923426,722,No,Rejected
+Axis,Partnership,41,9,27571047,4144315,911,Yes,Approved
+Axis,Partnership,43,10,24943758,3829187,886,No,Approved
+Axis,Proprietor,21,5,7367285,4900017,760,No,Approved
+Axis,LLP,27,10,30926934,2241561,678,Yes,Approved
+Axis,Trust,26,6,7877526,4756151,787,No,Rejected
+Axis,LLP,41,10,24448537,3807465,810,No,Approved
+Axis,Partnership,27,5,7853355,4340662,759,No,Rejected
+Axis,Partnership,38,10,28069495,4105166,770,No,Approved
+Axis,Trust,41,9,27015989,3894587,800,Yes,Approved
+Axis,Partnership,29,5,8650356,4857542,771,Yes,Rejected
+Axis,Proprietor,28,10,26700844,2421714,647,No,Approved
+Axis,LLP,25,10,31303724,2396570,652,Yes,Approved
+Axis,Pvt Ltd,40,9,25387484,4184765,759,No,Approved
+Axis,Proprietor,43,3,34142450,998330,782,No,Approved
+Axis,Trust,28,9,29434818,2397474,667,Yes,Approved
+Axis,LLP,29,6,8024581,4341161,765,No,Rejected
+Axis,Proprietor,40,10,26415876,3989605,925,No,Approved
+Axis,LLP,41,4,31384038,960352,661,Yes,Approved
+Axis,Proprietor,47,6,7768943,4603251,753,No,Rejected
+Axis,LLP,43,3,28243100,1005504,697,Yes,Approved
+Axis,Proprietor,28,9,28167419,2323158,746,Yes,Approved
+Axis,Pvt Ltd,25,6,8274203,4889871,757,Yes,Rejected
+Axis,Proprietor,38,4,32907772,1008919,694,Yes,Approved
+Axis,LLP,21,5,7821752,4325060,702,Yes,Approved
+Axis,Partnership,43,9,24452480,3942638,909,No,Approved
+Axis,Pvt Ltd,39,9,27416949,3928901,880,Yes,Approved
+Axis,Partnership,37,3,31278222,964192,740,No,Approved
+Axis,LLP,28,6,8386691,5152367,737,No,Rejected
+Axis,Trust,20,5,7887360,5111920,674,No,Approved
+Axis,Trust,25,9,30826130,2092407,696,No,Approved
+Axis,Partnership,24,5,8654243,4480994,696,Yes,Rejected
+Axis,Proprietor,24,5,9025530,5066023,696,Yes,Rejected
+Axis,Partnership,21,5,6984683,5080695,686,No,Approved
+Axis,LLP,30,10,27336192,2040855,632,No,Approved
+Axis,Partnership,41,9,25077880,3624122,885,No,Approved
+Axis,Trust,44,9,28077279,4040392,889,No,Approved
+Axis,LLP,46,9,23670230,3947552,907,No,Approved
+Axis,Partnership,26,6,9112771,5165040,744,No,Rejected
+Axis,Partnership,30,10,29674411,2456808,708,No,Approved
+Axis,Partnership,41,10,27558410,4085303,823,Yes,Approved
+Axis,Proprietor,27,6,8395948,4442479,754,No,Rejected
+Axis,LLP,28,9,27697349,2246843,699,No,Approved
+Axis,Trust,44,10,27706951,3866521,821,No,Approved
+Axis,Trust,50,6,8559455,4811509,688,Yes,Rejected
+Axis,Partnership,26,6,8562295,4335919,767,Yes,Rejected
+Axis,Trust,43,6,8023467,4451766,726,Yes,Rejected
+Axis,LLP,42,4,32839342,870292,761,No,Approved
+Axis,Proprietor,43,6,7997321,4793555,717,Yes,Rejected
+Axis,Proprietor,46,5,8817521,4404390,680,Yes,Rejected
+Axis,Pvt Ltd,43,3,33607763,851184,722,Yes,Approved
+Axis,LLP,38,3,31720652,902464,710,No,Approved
+Axis,Proprietor,51,5,7791161,4313611,732,Yes,Rejected
+Axis,Proprietor,20,4,7242667,4779672,716,No,Approved
+Axis,Partnership,44,3,28672711,947398,760,No,Approved
+Axis,Proprietor,43,4,29617340,830948,736,Yes,Approved
+Axis,LLP,46,10,26604755,4098291,798,No,Approved
+Axis,Proprietor,20,5,7707296,4481434,758,Yes,Approved
+Axis,Trust,22,4,7707660,4402445,631,No,Approved
+Axis,Trust,28,6,9308018,5058983,687,Yes,Rejected
+Axis,Proprietor,46,9,25779768,4193741,782,Yes,Approved
+Axis,LLP,22,4,8098719,4536379,737,Yes,Approved
+Axis,Partnership,26,10,31890816,2224851,711,Yes,Approved
+Axis,Pvt Ltd,39,4,34282534,953734,795,Yes,Approved
+Axis,Partnership,38,3,28548238,894881,663,Yes,Approved
+Axis,Proprietor,40,10,27332589,3727440,903,No,Approved
+Axis,Trust,38,4,29634297,907759,721,No,Approved
+Axis,LLP,27,10,31093553,2452795,742,Yes,Approved
+Axis,Trust,49,5,8396171,4040787,807,No,Rejected
+Axis,Trust,45,5,8025523,4368408,691,No,Rejected
+Axis,LLP,43,10,26638141,4382535,919,No,Approved
+Axis,LLP,38,3,31258129,941939,667,Yes,Approved
+Axis,LLP,29,5,8993496,4397407,685,Yes,Rejected
+Axis,Proprietor,24,5,8125205,4596601,705,Yes,Rejected
+Axis,Pvt Ltd,51,6,8777527,3987551,786,No,Rejected
+Axis,Trust,50,6,7675206,4465320,767,Yes,Rejected
+Axis,Pvt Ltd,19,4,7204694,5003644,667,No,Approved
+Axis,Partnership,20,4,8300256,4785802,763,Yes,Approved
+Axis,LLP,43,5,7839121,4338996,815,No,Rejected
+Axis,Pvt Ltd,26,9,27874767,2484627,695,No,Approved
+Axis,Proprietor,46,6,7570827,4615278,803,Yes,Rejected
+Axis,Pvt Ltd,44,10,24781405,4191395,857,No,Approved
+Axis,Pvt Ltd,43,10,26894482,3820255,773,Yes,Approved
+Axis,Proprietor,43,9,24892291,3678173,826,Yes,Approved
+Axis,LLP,19,5,7384833,4578678,738,Yes,Approved
+Axis,Proprietor,39,9,28039180,3896578,917,Yes,Approved
+Axis,Proprietor,23,4,7707366,5014643,715,Yes,Approved
+Axis,Partnership,44,5,8049539,4137592,752,No,Rejected
+Axis,Pvt Ltd,49,5,7469374,4412865,780,Yes,Rejected
+Axis,Trust,41,9,28155067,3901159,821,Yes,Approved
+Axis,Trust,28,5,7710331,4505533,785,Yes,Rejected
+Axis,Proprietor,44,4,32472065,929536,697,Yes,Approved
+Axis,Proprietor,39,4,32312115,897547,729,Yes,Approved
+Axis,Pvt Ltd,41,10,25277152,4406718,836,No,Approved
+Axis,Trust,49,5,8742232,4583473,814,Yes,Rejected
+Axis,Pvt Ltd,40,10,24369137,4123324,818,Yes,Approved
+Axis,Proprietor,43,6,8126594,3987659,810,No,Rejected
+Axis,Trust,21,5,8318932,5106733,639,No,Approved
+Axis,Trust,39,4,28469442,834978,683,Yes,Approved
+Axis,LLP,45,5,8473299,4581355,809,No,Rejected
+Axis,LLP,41,4,34143700,970004,699,Yes,Approved
+Axis,Partnership,51,6,8225211,4390616,694,Yes,Rejected
+Axis,Partnership,29,10,31572643,2141228,756,Yes,Approved
+Axis,Proprietor,44,3,33799284,866810,671,No,Approved
+Axis,Pvt Ltd,29,9,26873130,2070851,634,Yes,Approved
+Axis,LLP,44,3,28419607,946509,794,No,Approved
+Axis,Trust,20,4,7068607,4991799,716,Yes,Approved
+Axis,Partnership,28,5,8311102,4633110,737,No,Rejected
+Axis,Pvt Ltd,20,5,8184207,4386915,647,No,Approved
+Axis,Proprietor,28,10,31896160,2275089,727,No,Approved
+Axis,Pvt Ltd,51,6,7997511,4425294,775,Yes,Rejected
+Axis,Trust,30,9,29669773,2068515,639,No,Approved
+Axis,Pvt Ltd,42,9,28113455,3943754,909,Yes,Approved
+Axis,Proprietor,40,10,24312649,3676139,839,Yes,Approved
+Axis,Partnership,28,5,7872630,4557394,705,No,Rejected
+Axis,LLP,38,3,29506692,918989,670,Yes,Approved
+Axis,Proprietor,28,10,31375555,2246268,717,Yes,Approved
+Axis,Trust,48,6,7927987,4222739,774,No,Rejected
+Axis,Trust,21,5,7168536,5048951,655,No,Approved
+Axis,Pvt Ltd,44,3,31922839,872037,756,No,Approved
+Axis,Partnership,19,4,7273554,4684328,728,No,Approved
+Axis,Proprietor,46,6,8775488,4677926,674,No,Rejected
+Axis,Trust,24,5,8836002,4572843,749,Yes,Rejected
+Axis,LLP,27,9,29159099,2099721,625,Yes,Approved
+Axis,LLP,26,6,7695924,4365233,719,Yes,Rejected
+Axis,Proprietor,26,6,8685970,4719358,677,Yes,Rejected
+Axis,Trust,49,5,7714249,4634869,689,Yes,Rejected
+Axis,LLP,26,5,8601512,4658016,751,Yes,Rejected
+Axis,Pvt Ltd,45,9,28123135,4198952,781,No,Approved
+Axis,Trust,41,4,31766606,994235,706,No,Approved
+Axis,Trust,26,6,7840922,4307294,664,Yes,Rejected
+Axis,Pvt Ltd,44,3,31697891,998098,720,Yes,Approved
+Axis,Proprietor,46,6,7536311,4526896,782,Yes,Rejected
+Axis,LLP,25,6,7938425,4253931,665,Yes,Rejected
+Axis,Partnership,47,5,7244346,4503905,673,No,Rejected
+Axis,Pvt Ltd,20,5,8203470,4368418,633,Yes,Approved
+Axis,Trust,29,6,9228802,4685283,796,Yes,Rejected
+Axis,LLP,27,6,9264724,4575554,797,No,Rejected
+Axis,Trust,26,10,28029373,2390569,659,No,Approved
+Axis,LLP,43,5,8070328,4291795,799,No,Rejected
+Axis,Pvt Ltd,28,5,8074430,4625620,732,No,Rejected
+Axis,Trust,44,9,23699674,4388668,842,Yes,Approved
+Axis,Pvt Ltd,30,10,30265105,2371734,753,Yes,Approved
+Axis,Proprietor,26,5,7977609,4344527,701,Yes,Rejected
+Axis,Pvt Ltd,21,5,7010322,4373034,667,Yes,Approved
+Axis,Proprietor,30,9,26455410,2245091,647,No,Approved
+Axis,LLP,43,3,30975947,863614,753,No,Approved
+Axis,LLP,27,9,28690890,2380738,681,Yes,Approved
+Axis,Proprietor,43,4,34234848,969023,772,No,Approved
+Axis,LLP,46,10,24934181,4183902,769,No,Approved
+Axis,Proprietor,42,3,32196863,956264,766,Yes,Approved
+Axis,Proprietor,37,4,31349175,969800,803,Yes,Approved
+Axis,Trust,28,10,27308790,2447980,662,Yes,Approved
+Axis,LLP,50,5,7689272,4642830,704,No,Rejected
+Axis,Partnership,37,4,28683196,987855,669,Yes,Approved
+Axis,Partnership,27,6,7706275,4999724,754,No,Rejected
+Axis,Partnership,29,10,30115711,2227345,682,No,Approved
+Axis,Trust,49,5,8432548,3956799,806,No,Rejected
+Axis,Partnership,43,5,8819988,4156336,732,Yes,Rejected
+Axis,Trust,52,5,7811630,3998328,769,No,Rejected
+Axis,LLP,47,9,26303634,4185108,816,Yes,Approved
+Axis,Proprietor,40,10,24204331,3887371,787,No,Approved
+Axis,Partnership,46,9,25187595,4102203,764,Yes,Approved
+Axis,Pvt Ltd,25,6,8642843,4597389,681,No,Rejected
+Axis,Trust,43,6,8091266,3957824,697,No,Rejected
+Axis,Trust,27,9,26734164,2166255,653,Yes,Approved
+Axis,Pvt Ltd,23,5,8122819,4850511,693,No,Approved
+Axis,Trust,49,6,7273006,4163167,723,No,Rejected
+Axis,Pvt Ltd,27,5,8817670,4971916,703,Yes,Rejected
+Axis,LLP,19,4,7649606,4259657,655,Yes,Approved
+Axis,Partnership,27,10,27258030,2297146,687,Yes,Approved
+Axis,Pvt Ltd,40,10,25838594,4410930,843,Yes,Approved
+Axis,Trust,42,10,26849854,4388181,763,Yes,Approved
+Axis,Trust,29,6,8927825,4959445,658,Yes,Rejected
+Axis,Partnership,47,9,25988155,4148418,925,No,Approved
+Axis,LLP,52,5,8455564,4347319,782,Yes,Rejected
+Axis,Pvt Ltd,27,5,8706082,4768564,798,No,Rejected
+Axis,Pvt Ltd,18,4,7491983,5092323,739,Yes,Approved
+Axis,Partnership,25,5,8497672,5145586,665,No,Rejected
+Axis,Proprietor,29,5,7699106,4995153,683,No,Rejected
+Axis,LLP,27,9,28298829,2323202,698,No,Approved
+Axis,Pvt Ltd,20,4,7569644,4309434,664,Yes,Approved
+Axis,Proprietor,26,10,30655020,2433533,705,No,Approved
+Axis,Trust,41,10,26103022,3989829,819,No,Approved
+Axis,Proprietor,26,5,8956564,5123804,797,No,Rejected
+Axis,Trust,28,5,8599471,5186439,787,No,Rejected
+Axis,LLP,26,9,27354732,2058466,754,Yes,Approved
+Axis,Proprietor,42,9,27537934,3944312,908,No,Approved
+Axis,Partnership,43,6,7715159,4048662,766,No,Rejected
+Axis,LLP,37,4,29412607,845238,717,No,Approved
+Axis,Pvt Ltd,47,5,8406224,4407352,719,Yes,Rejected
+Axis,Pvt Ltd,45,5,8505277,4430783,772,No,Rejected
+Axis,Proprietor,52,5,7399371,4454718,742,No,Rejected
+Axis,Pvt Ltd,30,10,30085030,2229728,722,No,Approved
+Axis,Pvt Ltd,26,5,7845963,4849487,800,No,Rejected
+Axis,Partnership,42,4,30094164,1008652,774,Yes,Approved
+Axis,Trust,50,6,8359978,4396043,781,No,Rejected
+Axis,Pvt Ltd,26,6,8172297,5018692,755,Yes,Rejected
+Axis,LLP,41,9,25101030,4100510,760,Yes,Approved
+Axis,Trust,22,5,7460174,4408172,689,Yes,Approved
+Axis,Trust,41,4,34082531,997268,758,No,Approved
+Axis,Partnership,40,4,28809534,874748,763,No,Approved
+Axis,Proprietor,26,10,31337975,2239811,703,No,Approved
+Axis,Partnership,48,5,7371574,4540498,759,No,Rejected
+Axis,Partnership,28,9,31953370,2405842,733,Yes,Approved
+Axis,Partnership,21,4,6950821,5041250,648,Yes,Approved
+Axis,Pvt Ltd,38,10,23236552,4093359,874,Yes,Approved
+Axis,Partnership,21,4,7683801,4687297,728,No,Approved
+Axis,Pvt Ltd,45,10,24386409,3648316,835,Yes,Approved
+Axis,Partnership,40,10,25248101,4027092,770,No,Approved
+Axis,Partnership,50,6,7742799,4683216,714,No,Rejected
+Axis,Pvt Ltd,42,9,24314467,4138711,850,Yes,Approved
+Axis,Trust,42,10,27978262,3971445,861,Yes,Approved
+Axis,Partnership,44,3,30702478,966859,782,No,Approved
+Axis,Proprietor,27,5,7942461,4897985,675,No,Rejected
+Axis,Trust,45,6,7920272,4037654,693,Yes,Rejected
+Axis,LLP,45,6,8294970,4239055,725,Yes,Rejected
+Axis,LLP,38,3,28437096,850873,803,No,Approved
+Axis,Partnership,26,5,7696395,4473233,778,Yes,Rejected
+Axis,Pvt Ltd,43,3,29038949,978242,726,Yes,Approved
+Axis,Proprietor,29,9,28135904,2082577,746,Yes,Approved
+Axis,LLP,20,4,7527040,4419910,703,No,Approved
+Axis,Proprietor,30,9,31392140,2239536,650,No,Approved
+Axis,Pvt Ltd,39,10,23810029,4183036,907,No,Approved
+Axis,Partnership,42,10,25793440,4148456,841,No,Approved
+Axis,Pvt Ltd,43,9,24360675,4274748,818,No,Approved
+Axis,Trust,38,3,31569598,892300,778,Yes,Approved
+Axis,Pvt Ltd,22,5,6979300,4895448,643,No,Approved
+Axis,Pvt Ltd,25,10,27593610,2315095,642,No,Approved
+Axis,Partnership,29,10,31647971,2374423,668,Yes,Approved
+Axis,Pvt Ltd,39,4,34013190,832298,699,Yes,Approved
+Axis,Trust,21,5,7485556,4801119,710,Yes,Approved
+Axis,Pvt Ltd,19,5,7860830,4449232,645,Yes,Approved
+Axis,Trust,40,4,31542220,905298,750,Yes,Approved
+Axis,Partnership,28,6,9371702,4301422,798,Yes,Rejected
+Axis,Proprietor,38,4,28958020,873030,690,Yes,Approved
+Axis,Trust,45,10,23928722,4391292,907,Yes,Approved
+Axis,Proprietor,25,10,31515094,2204143,633,No,Approved
+Axis,Partnership,20,5,8097002,4331951,764,Yes,Approved
+Axis,Proprietor,42,10,28090833,3846437,869,No,Approved
+Axis,LLP,30,9,31307344,2381666,724,No,Approved
+Axis,Proprietor,24,6,7845688,4294453,684,No,Rejected
+Axis,Pvt Ltd,26,5,9290697,4310391,782,No,Rejected
+Axis,Proprietor,22,4,8382466,4794469,682,Yes,Approved
+Axis,LLP,21,5,7572459,4800187,705,Yes,Approved
+Axis,Pvt Ltd,46,10,23309726,3655527,798,Yes,Approved
+Axis,Partnership,25,5,9077608,4964935,742,No,Rejected
+Axis,Proprietor,28,5,7984955,4374431,669,Yes,Rejected
+Axis,LLP,43,9,25632387,3890693,889,No,Approved
+Axis,LLP,27,10,31684613,2044260,733,No,Approved
+Axis,Pvt Ltd,37,4,31372083,935346,737,No,Approved
+Axis,LLP,25,5,8909580,4312822,682,No,Rejected
+Axis,Trust,29,10,29968729,2057349,726,No,Approved
+Axis,Partnership,44,6,8505844,4366421,768,No,Rejected
+Axis,Partnership,28,9,29287197,2424084,721,Yes,Approved
+Axis,Proprietor,27,6,9287748,4930202,677,Yes,Rejected
+Axis,LLP,37,4,30238283,842182,677,Yes,Approved
+Axis,LLP,21,5,7889604,4600450,667,No,Approved
+Axis,LLP,42,10,26081653,4065076,900,Yes,Approved
+Axis,Partnership,46,10,24124637,4114135,886,Yes,Approved
+Axis,Trust,45,6,7895526,3975559,786,No,Rejected
+Axis,Trust,40,3,31822719,925554,739,No,Approved
+Axis,Pvt Ltd,41,3,31092458,850649,785,No,Approved
+Axis,LLP,19,4,7012235,4784119,680,No,Approved
+Axis,Pvt Ltd,25,6,8473191,5058714,720,No,Rejected
+Axis,Trust,44,3,29127595,860748,671,No,Approved
+Axis,Proprietor,27,6,8381649,4789748,690,No,Rejected
+Axis,Proprietor,37,4,33543909,941267,696,Yes,Approved
+Axis,Partnership,26,10,31478182,2133207,743,Yes,Approved
+Axis,Proprietor,40,10,23492218,4132983,819,No,Approved
+Axis,Pvt Ltd,28,9,27133968,2401111,623,Yes,Approved
+Axis,Proprietor,41,10,24732711,3951498,833,No,Approved
+Axis,Trust,28,6,7945021,5089464,703,No,Rejected
+Axis,Partnership,25,10,28204350,2092162,722,Yes,Approved
+Axis,Partnership,28,9,28924164,2438519,639,Yes,Approved
+Axis,Pvt Ltd,20,5,8055483,4238455,743,No,Approved
+Axis,Partnership,43,3,33804855,880023,671,No,Approved
+Axis,LLP,24,5,7878054,4513910,761,No,Rejected
+Axis,Partnership,42,3,28851133,880258,700,Yes,Approved
+Axis,Pvt Ltd,45,5,8707914,4082417,719,No,Rejected
+Axis,Trust,45,5,7369455,4293254,731,Yes,Rejected
+Axis,Partnership,42,10,24667598,4208866,876,Yes,Approved
+Axis,Pvt Ltd,20,4,6997457,4491438,684,No,Approved
+Axis,Trust,50,6,8227236,4137693,747,Yes,Rejected
+Axis,Proprietor,20,4,7607235,4954283,660,No,Approved
+Axis,Pvt Ltd,21,5,8380498,4651097,632,Yes,Approved
+Axis,Trust,26,5,8591072,4324737,789,Yes,Rejected
+Axis,Trust,50,5,7481955,4637891,795,Yes,Rejected
+Axis,Partnership,25,10,27903446,2396661,692,No,Approved
+Axis,Partnership,42,4,32829662,842553,739,No,Approved
+Axis,Proprietor,46,5,7583219,4785966,735,No,Rejected
+Axis,Partnership,26,6,7752806,4368729,781,Yes,Rejected
+Axis,Pvt Ltd,46,6,8600587,4492889,793,Yes,Rejected
+Axis,Proprietor,19,4,8062972,4273962,695,Yes,Approved
+Axis,Trust,52,5,7507038,4305059,757,No,Rejected
+Axis,Trust,29,10,27380513,2265515,739,Yes,Approved
+Axis,Trust,20,4,7312810,4323395,707,Yes,Approved
+Axis,Partnership,52,5,8097540,4658070,670,Yes,Rejected
+Axis,Trust,29,5,8321555,5174414,658,Yes,Rejected
+Axis,Trust,29,6,7722032,4453476,716,No,Rejected
+Axis,Pvt Ltd,24,6,8346600,4505543,797,Yes,Rejected
+Axis,Trust,28,6,9304213,4391875,796,No,Rejected
+Axis,Pvt Ltd,19,4,7613193,4345883,713,Yes,Approved
+Axis,Trust,45,5,7733132,4729099,723,No,Rejected
+Axis,Pvt Ltd,52,6,7976437,4223125,806,Yes,Rejected
+Axis,Partnership,26,9,29806113,2053569,753,Yes,Approved
+Axis,LLP,40,3,32696087,846473,718,Yes,Approved
+Axis,Trust,19,4,7884743,4914188,671,No,Approved
+Axis,Pvt Ltd,41,10,24839815,3794962,880,Yes,Approved
+Axis,LLP,45,9,26394694,3951379,845,No,Approved
+Axis,Trust,45,10,25013190,3622702,831,No,Approved
+Axis,Trust,44,5,8689355,4134137,681,No,Rejected
+Axis,Trust,47,5,8446131,4593091,673,No,Rejected
+Axis,Partnership,24,5,7705256,4923426,722,No,Rejected
+Axis,Partnership,41,9,27571047,4144315,911,Yes,Approved
+Axis,Partnership,43,10,24943758,3829187,886,No,Approved
+Axis,Proprietor,21,5,7367285,4900017,760,No,Approved
+Axis,LLP,27,10,30926934,2241561,678,Yes,Approved
+Axis,Trust,26,6,7877526,4756151,787,No,Rejected
+Axis,LLP,41,10,24448537,3807465,810,No,Approved
+Axis,Partnership,27,5,7853355,4340662,759,No,Rejected
+Axis,Partnership,38,10,28069495,4105166,770,No,Approved
+Axis,Trust,41,9,27015989,3894587,800,Yes,Approved
+Axis,Partnership,29,5,8650356,4857542,771,Yes,Rejected
+Axis,Proprietor,28,10,26700844,2421714,647,No,Approved
+Axis,LLP,25,10,31303724,2396570,652,Yes,Approved
+Axis,Pvt Ltd,40,9,25387484,4184765,759,No,Approved
+Axis,Proprietor,43,3,34142450,998330,782,No,Approved
+Axis,Trust,28,9,29434818,2397474,667,Yes,Approved
+Axis,LLP,29,6,8024581,4341161,765,No,Rejected
+Axis,Proprietor,40,10,26415876,3989605,925,No,Approved
+Axis,LLP,41,4,31384038,960352,661,Yes,Approved
+Axis,Proprietor,47,6,7768943,4603251,753,No,Rejected
+Axis,LLP,43,3,28243100,1005504,697,Yes,Approved
+Axis,Proprietor,28,9,28167419,2323158,746,Yes,Approved
+Axis,Pvt Ltd,25,6,8274203,4889871,757,Yes,Rejected
+Axis,Proprietor,38,4,32907772,1008919,694,Yes,Approved
+Axis,LLP,21,5,7821752,4325060,702,Yes,Approved
+Axis,Partnership,43,9,24452480,3942638,909,No,Approved
+Axis,Pvt Ltd,39,9,27416949,3928901,880,Yes,Approved
+Axis,Partnership,37,3,31278222,964192,740,No,Approved
+Axis,LLP,28,6,8386691,5152367,737,No,Rejected
+Axis,Trust,20,5,7887360,5111920,674,No,Approved
+Axis,Trust,25,9,30826130,2092407,696,No,Approved
+Axis,Partnership,24,5,8654243,4480994,696,Yes,Rejected
+Axis,Proprietor,24,5,9025530,5066023,696,Yes,Rejected
+Axis,Partnership,21,5,6984683,5080695,686,No,Approved
+Axis,LLP,30,10,27336192,2040855,632,No,Approved
+Axis,Partnership,41,9,25077880,3624122,885,No,Approved
+Axis,Trust,44,9,28077279,4040392,889,No,Approved
+Axis,LLP,46,9,23670230,3947552,907,No,Approved
+Axis,Partnership,26,6,9112771,5165040,744,No,Rejected
+Axis,Partnership,30,10,29674411,2456808,708,No,Approved
+Axis,Partnership,41,10,27558410,4085303,823,Yes,Approved
+Axis,Proprietor,27,6,8395948,4442479,754,No,Rejected
+Axis,LLP,28,9,27697349,2246843,699,No,Approved
+Axis,Trust,44,10,27706951,3866521,821,No,Approved
+Axis,Trust,50,6,8559455,4811509,688,Yes,Rejected
+Axis,Partnership,26,6,8562295,4335919,767,Yes,Rejected
+Axis,Trust,43,6,8023467,4451766,726,Yes,Rejected
+Axis,LLP,42,4,32839342,870292,761,No,Approved
+Axis,Proprietor,43,6,7997321,4793555,717,Yes,Rejected
+Axis,Proprietor,46,5,8817521,4404390,680,Yes,Rejected
+Axis,Pvt Ltd,43,3,33607763,851184,722,Yes,Approved
+Axis,LLP,38,3,31720652,902464,710,No,Approved
+Axis,Proprietor,51,5,7791161,4313611,732,Yes,Rejected
+Axis,Proprietor,20,4,7242667,4779672,716,No,Approved
+Axis,Partnership,44,3,28672711,947398,760,No,Approved
+Axis,Proprietor,43,4,29617340,830948,736,Yes,Approved
+Axis,LLP,46,10,26604755,4098291,798,No,Approved
+Axis,Proprietor,20,5,7707296,4481434,758,Yes,Approved
+Axis,Trust,22,4,7707660,4402445,631,No,Approved
+Axis,Trust,28,6,9308018,5058983,687,Yes,Rejected
+Axis,Proprietor,46,9,25779768,4193741,782,Yes,Approved
+Axis,LLP,22,4,8098719,4536379,737,Yes,Approved
+Axis,Partnership,26,10,31890816,2224851,711,Yes,Approved
+Axis,Pvt Ltd,39,4,34282534,953734,795,Yes,Approved
+Axis,Partnership,38,3,28548238,894881,663,Yes,Approved
+Axis,Proprietor,40,10,27332589,3727440,903,No,Approved
+Axis,Trust,38,4,29634297,907759,721,No,Approved
+Axis,LLP,27,10,31093553,2452795,742,Yes,Approved
+Axis,Trust,49,5,8396171,4040787,807,No,Rejected
+Axis,Trust,45,5,8025523,4368408,691,No,Rejected
+Axis,LLP,43,10,26638141,4382535,919,No,Approved
+Axis,LLP,38,3,31258129,941939,667,Yes,Approved
+Axis,LLP,29,5,8993496,4397407,685,Yes,Rejected
+Axis,Proprietor,24,5,8125205,4596601,705,Yes,Rejected
+Axis,Pvt Ltd,51,6,8777527,3987551,786,No,Rejected
+Axis,Trust,50,6,7675206,4465320,767,Yes,Rejected
+Axis,Pvt Ltd,19,4,7204694,5003644,667,No,Approved
+Axis,Partnership,20,4,8300256,4785802,763,Yes,Approved
+Axis,LLP,43,5,7839121,4338996,815,No,Rejected
+Axis,Pvt Ltd,26,9,27874767,2484627,695,No,Approved
+Axis,Proprietor,46,6,7570827,4615278,803,Yes,Rejected
+Axis,Pvt Ltd,44,10,24781405,4191395,857,No,Approved
+Axis,Pvt Ltd,43,10,26894482,3820255,773,Yes,Approved
+Axis,Proprietor,43,9,24892291,3678173,826,Yes,Approved
+Axis,LLP,19,5,7384833,4578678,738,Yes,Approved
+Axis,Proprietor,39,9,28039180,3896578,917,Yes,Approved
+Axis,Proprietor,23,4,7707366,5014643,715,Yes,Approved
+Axis,Partnership,44,5,8049539,4137592,752,No,Rejected
+Axis,Pvt Ltd,49,5,7469374,4412865,780,Yes,Rejected
+Axis,Trust,41,9,28155067,3901159,821,Yes,Approved
+Axis,Trust,28,5,7710331,4505533,785,Yes,Rejected
+Axis,Proprietor,44,4,32472065,929536,697,Yes,Approved
+Axis,Proprietor,39,4,32312115,897547,729,Yes,Approved
+Axis,Pvt Ltd,41,10,25277152,4406718,836,No,Approved
+Axis,Trust,49,5,8742232,4583473,814,Yes,Rejected
+Axis,Pvt Ltd,40,10,24369137,4123324,818,Yes,Approved
+Axis,Proprietor,43,6,8126594,3987659,810,No,Rejected
+Axis,Trust,21,5,8318932,5106733,639,No,Approved
+Axis,Trust,39,4,28469442,834978,683,Yes,Approved
+Axis,LLP,45,5,8473299,4581355,809,No,Rejected
+Axis,LLP,41,4,34143700,970004,699,Yes,Approved
+Axis,Partnership,51,6,8225211,4390616,694,Yes,Rejected
+Axis,Partnership,29,10,31572643,2141228,756,Yes,Approved
+Axis,Proprietor,44,3,33799284,866810,671,No,Approved
+Axis,Pvt Ltd,29,9,26873130,2070851,634,Yes,Approved
+Axis,LLP,44,3,28419607,946509,794,No,Approved
+Axis,Trust,20,4,7068607,4991799,716,Yes,Approved
+Axis,Partnership,28,5,8311102,4633110,737,No,Rejected
+Axis,Pvt Ltd,20,5,8184207,4386915,647,No,Approved
+Axis,Proprietor,28,10,31896160,2275089,727,No,Approved
+Axis,Pvt Ltd,51,6,7997511,4425294,775,Yes,Rejected
+Axis,Trust,30,9,29669773,2068515,639,No,Approved
+Axis,Pvt Ltd,42,9,28113455,3943754,909,Yes,Approved
+Axis,Proprietor,40,10,24312649,3676139,839,Yes,Approved
+Axis,Partnership,28,5,7872630,4557394,705,No,Rejected
+Axis,LLP,38,3,29506692,918989,670,Yes,Approved
+Axis,Proprietor,28,10,31375555,2246268,717,Yes,Approved
+Axis,Trust,48,6,7927987,4222739,774,No,Rejected
+Axis,Trust,21,5,7168536,5048951,655,No,Approved
+Axis,Pvt Ltd,44,3,31922839,872037,756,No,Approved
+Axis,Partnership,19,4,7273554,4684328,728,No,Approved
+Axis,Proprietor,46,6,8775488,4677926,674,No,Rejected
+Axis,Trust,24,5,8836002,4572843,749,Yes,Rejected
+Axis,LLP,27,9,29159099,2099721,625,Yes,Approved
+Axis,LLP,26,6,7695924,4365233,719,Yes,Rejected
+Axis,Proprietor,26,6,8685970,4719358,677,Yes,Rejected
+Axis,Trust,49,5,7714249,4634869,689,Yes,Rejected
+Axis,LLP,26,5,8601512,4658016,751,Yes,Rejected
+Axis,Pvt Ltd,45,9,28123135,4198952,781,No,Approved
+Axis,Trust,41,4,31766606,994235,706,No,Approved
+Axis,Trust,26,6,7840922,4307294,664,Yes,Rejected
+Axis,Pvt Ltd,44,3,31697891,998098,720,Yes,Approved
+Axis,Proprietor,46,6,7536311,4526896,782,Yes,Rejected
+Axis,LLP,25,6,7938425,4253931,665,Yes,Rejected
+Axis,Partnership,47,5,7244346,4503905,673,No,Rejected
+Axis,Pvt Ltd,20,5,8203470,4368418,633,Yes,Approved
+Axis,Trust,29,6,9228802,4685283,796,Yes,Rejected
+Axis,LLP,27,6,9264724,4575554,797,No,Rejected
+Axis,Trust,26,10,28029373,2390569,659,No,Approved
+Axis,LLP,43,5,8070328,4291795,799,No,Rejected
+Axis,Pvt Ltd,28,5,8074430,4625620,732,No,Rejected
+Axis,Trust,44,9,23699674,4388668,842,Yes,Approved
+Axis,Pvt Ltd,30,10,30265105,2371734,753,Yes,Approved
+Axis,Proprietor,26,5,7977609,4344527,701,Yes,Rejected
+Axis,Pvt Ltd,21,5,7010322,4373034,667,Yes,Approved
+Axis,Proprietor,30,9,26455410,2245091,647,No,Approved
+Axis,LLP,43,3,30975947,863614,753,No,Approved
+Axis,LLP,27,9,28690890,2380738,681,Yes,Approved
+Axis,Proprietor,43,4,34234848,969023,772,No,Approved
+Axis,LLP,46,10,24934181,4183902,769,No,Approved
+Axis,Proprietor,42,3,32196863,956264,766,Yes,Approved
+Axis,Proprietor,37,4,31349175,969800,803,Yes,Approved
+Axis,Trust,28,10,27308790,2447980,662,Yes,Approved
+Axis,LLP,50,5,7689272,4642830,704,No,Rejected
+Axis,Partnership,37,4,28683196,987855,669,Yes,Approved
+Axis,Partnership,27,6,7706275,4999724,754,No,Rejected
+Axis,Partnership,29,10,30115711,2227345,682,No,Approved
+Axis,Trust,49,5,8432548,3956799,806,No,Rejected
+Axis,Partnership,43,5,8819988,4156336,732,Yes,Rejected
+Axis,Trust,52,5,7811630,3998328,769,No,Rejected
+Axis,LLP,47,9,26303634,4185108,816,Yes,Approved
+Axis,Proprietor,40,10,24204331,3887371,787,No,Approved
+Axis,Partnership,46,9,25187595,4102203,764,Yes,Approved
+Axis,Pvt Ltd,25,6,8642843,4597389,681,No,Rejected
+Axis,Trust,43,6,8091266,3957824,697,No,Rejected
+Axis,Trust,27,9,26734164,2166255,653,Yes,Approved
+Axis,Pvt Ltd,23,5,8122819,4850511,693,No,Approved
+Axis,Trust,49,6,7273006,4163167,723,No,Rejected
+Axis,Pvt Ltd,27,5,8817670,4971916,703,Yes,Rejected
+Axis,LLP,19,4,7649606,4259657,655,Yes,Approved
+Axis,Partnership,27,10,27258030,2297146,687,Yes,Approved
+Axis,Pvt Ltd,40,10,25838594,4410930,843,Yes,Approved
+Axis,Trust,42,10,26849854,4388181,763,Yes,Approved
+Axis,Trust,29,6,8927825,4959445,658,Yes,Rejected
+Axis,Partnership,47,9,25988155,4148418,925,No,Approved
+Axis,LLP,52,5,8455564,4347319,782,Yes,Rejected
+Axis,Pvt Ltd,27,5,8706082,4768564,798,No,Rejected
+Axis,Pvt Ltd,18,4,7491983,5092323,739,Yes,Approved
+Axis,Partnership,25,5,8497672,5145586,665,No,Rejected
+Axis,Proprietor,29,5,7699106,4995153,683,No,Rejected
+Axis,LLP,27,9,28298829,2323202,698,No,Approved
+Axis,Pvt Ltd,20,4,7569644,4309434,664,Yes,Approved
+Axis,Proprietor,26,10,30655020,2433533,705,No,Approved
+Axis,Trust,41,10,26103022,3989829,819,No,Approved
+Axis,Proprietor,26,5,8956564,5123804,797,No,Rejected
+Axis,Trust,28,5,8599471,5186439,787,No,Rejected
+Axis,LLP,26,9,27354732,2058466,754,Yes,Approved
+Axis,Proprietor,42,9,27537934,3944312,908,No,Approved
+Axis,Partnership,43,6,7715159,4048662,766,No,Rejected
+Axis,LLP,37,4,29412607,845238,717,No,Approved
+Axis,Pvt Ltd,47,5,8406224,4407352,719,Yes,Rejected
+Axis,Pvt Ltd,45,5,8505277,4430783,772,No,Rejected
+Axis,Proprietor,52,5,7399371,4454718,742,No,Rejected
+Axis,Pvt Ltd,30,10,30085030,2229728,722,No,Approved
+Axis,Pvt Ltd,26,5,7845963,4849487,800,No,Rejected
+Axis,Partnership,42,4,30094164,1008652,774,Yes,Approved
+Axis,Trust,50,6,8359978,4396043,781,No,Rejected
+Axis,Pvt Ltd,26,6,8172297,5018692,755,Yes,Rejected
+Axis,LLP,41,9,25101030,4100510,760,Yes,Approved
+Axis,Trust,22,5,7460174,4408172,689,Yes,Approved
+Axis,Trust,41,4,34082531,997268,758,No,Approved
+Axis,Partnership,40,4,28809534,874748,763,No,Approved
+Axis,Proprietor,26,10,31337975,2239811,703,No,Approved
+Axis,Partnership,48,5,7371574,4540498,759,No,Rejected
+Axis,Partnership,28,9,31953370,2405842,733,Yes,Approved
+Axis,Partnership,21,4,6950821,5041250,648,Yes,Approved
+Axis,Pvt Ltd,38,10,23236552,4093359,874,Yes,Approved
+Axis,Partnership,21,4,7683801,4687297,728,No,Approved
+Axis,Pvt Ltd,45,10,24386409,3648316,835,Yes,Approved
+Axis,Partnership,40,10,25248101,4027092,770,No,Approved
+Axis,Partnership,50,6,7742799,4683216,714,No,Rejected
+Axis,Pvt Ltd,42,9,24314467,4138711,850,Yes,Approved
+Axis,Trust,42,10,27978262,3971445,861,Yes,Approved
+Axis,Partnership,44,3,30702478,966859,782,No,Approved
+Axis,Proprietor,27,5,7942461,4897985,675,No,Rejected
+Axis,Trust,45,6,7920272,4037654,693,Yes,Rejected
+Axis,LLP,45,6,8294970,4239055,725,Yes,Rejected
+Axis,LLP,38,3,28437096,850873,803,No,Approved
+Axis,Partnership,26,5,7696395,4473233,778,Yes,Rejected
+Axis,Pvt Ltd,43,3,29038949,978242,726,Yes,Approved
+Axis,Proprietor,29,9,28135904,2082577,746,Yes,Approved
+Axis,LLP,20,4,7527040,4419910,703,No,Approved
+Axis,Proprietor,30,9,31392140,2239536,650,No,Approved
+Axis,Pvt Ltd,39,10,23810029,4183036,907,No,Approved
+Axis,Partnership,42,10,25793440,4148456,841,No,Approved
+Axis,Pvt Ltd,43,9,24360675,4274748,818,No,Approved
+Axis,Trust,38,3,31569598,892300,778,Yes,Approved
+Axis,Pvt Ltd,22,5,6979300,4895448,643,No,Approved
+Axis,Pvt Ltd,25,10,27593610,2315095,642,No,Approved
+Axis,Partnership,29,10,31647971,2374423,668,Yes,Approved
+Axis,Pvt Ltd,39,4,34013190,832298,699,Yes,Approved
+Axis,Trust,21,5,7485556,4801119,710,Yes,Approved
+Axis,Pvt Ltd,19,5,7860830,4449232,645,Yes,Approved
+Axis,Trust,40,4,31542220,905298,750,Yes,Approved
+Axis,Partnership,28,6,9371702,4301422,798,Yes,Rejected
+Axis,Proprietor,38,4,28958020,873030,690,Yes,Approved
+Axis,Trust,45,10,23928722,4391292,907,Yes,Approved
+Axis,Proprietor,25,10,31515094,2204143,633,No,Approved
+Axis,Partnership,20,5,8097002,4331951,764,Yes,Approved
+Axis,Proprietor,42,10,28090833,3846437,869,No,Approved
+Axis,LLP,30,9,31307344,2381666,724,No,Approved
+Axis,Proprietor,24,6,7845688,4294453,684,No,Rejected
+Axis,Pvt Ltd,26,5,9290697,4310391,782,No,Rejected
+Axis,Proprietor,22,4,8382466,4794469,682,Yes,Approved
+Axis,LLP,21,5,7572459,4800187,705,Yes,Approved
+Axis,Pvt Ltd,46,10,23309726,3655527,798,Yes,Approved
+Axis,Partnership,25,5,9077608,4964935,742,No,Rejected
+Axis,Proprietor,28,5,7984955,4374431,669,Yes,Rejected
+Axis,LLP,43,9,25632387,3890693,889,No,Approved
+Axis,LLP,27,10,31684613,2044260,733,No,Approved
+Axis,Pvt Ltd,37,4,31372083,935346,737,No,Approved
+Axis,LLP,25,5,8909580,4312822,682,No,Rejected
+Axis,Trust,29,10,29968729,2057349,726,No,Approved
+Axis,Partnership,44,6,8505844,4366421,768,No,Rejected
+Axis,Partnership,28,9,29287197,2424084,721,Yes,Approved
+Axis,Proprietor,27,6,9287748,4930202,677,Yes,Rejected
+Axis,LLP,37,4,30238283,842182,677,Yes,Approved
+Axis,LLP,21,5,7889604,4600450,667,No,Approved
+Axis,LLP,42,10,26081653,4065076,900,Yes,Approved
+Axis,Partnership,46,10,24124637,4114135,886,Yes,Approved
+Axis,Trust,45,6,7895526,3975559,786,No,Rejected
+Axis,Trust,40,3,31822719,925554,739,No,Approved
+Axis,Pvt Ltd,41,3,31092458,850649,785,No,Approved
+Axis,LLP,19,4,7012235,4784119,680,No,Approved
+Axis,Pvt Ltd,25,6,8473191,5058714,720,No,Rejected
+Axis,Trust,44,3,29127595,860748,671,No,Approved
+Axis,Proprietor,27,6,8381649,4789748,690,No,Rejected
+Axis,Proprietor,37,4,33543909,941267,696,Yes,Approved
+Axis,Partnership,26,10,31478182,2133207,743,Yes,Approved
+Axis,Proprietor,40,10,23492218,4132983,819,No,Approved
+Axis,Pvt Ltd,28,9,27133968,2401111,623,Yes,Approved
+Axis,Proprietor,41,10,24732711,3951498,833,No,Approved
+Axis,Trust,28,6,7945021,5089464,703,No,Rejected
+Axis,Partnership,25,10,28204350,2092162,722,Yes,Approved
+Axis,Partnership,28,9,28924164,2438519,639,Yes,Approved
+Axis,Pvt Ltd,20,5,8055483,4238455,743,No,Approved
+Axis,Partnership,43,3,33804855,880023,671,No,Approved
+Axis,LLP,24,5,7878054,4513910,761,No,Rejected
+Axis,Partnership,42,3,28851133,880258,700,Yes,Approved
+Axis,Pvt Ltd,45,5,8707914,4082417,719,No,Rejected
+Axis,Trust,45,5,7369455,4293254,731,Yes,Rejected
+Axis,Partnership,42,10,24667598,4208866,876,Yes,Approved
+Axis,Pvt Ltd,20,4,6997457,4491438,684,No,Approved
+Axis,Trust,50,6,8227236,4137693,747,Yes,Rejected
+Axis,Proprietor,20,4,7607235,4954283,660,No,Approved
+Axis,Pvt Ltd,21,5,8380498,4651097,632,Yes,Approved
+Axis,Trust,26,5,8591072,4324737,789,Yes,Rejected
+Axis,Trust,50,5,7481955,4637891,795,Yes,Rejected
+Axis,Partnership,25,10,27903446,2396661,692,No,Approved
+Axis,Partnership,42,4,32829662,842553,739,No,Approved
+Axis,Proprietor,46,5,7583219,4785966,735,No,Rejected
+Axis,Partnership,26,6,7752806,4368729,781,Yes,Rejected
+Axis,Pvt Ltd,46,6,8600587,4492889,793,Yes,Rejected
+Axis,Proprietor,19,4,8062972,4273962,695,Yes,Approved
+Axis,Trust,52,5,7507038,4305059,757,No,Rejected
+Axis,Trust,29,10,27380513,2265515,739,Yes,Approved
+Axis,Trust,20,4,7312810,4323395,707,Yes,Approved
+Axis,Partnership,52,5,8097540,4658070,670,Yes,Rejected
+Axis,Trust,29,5,8321555,5174414,658,Yes,Rejected
+Axis,Trust,29,6,7722032,4453476,716,No,Rejected
+Axis,Pvt Ltd,24,6,8346600,4505543,797,Yes,Rejected
+Axis,Trust,28,6,9304213,4391875,796,No,Rejected
+Axis,Pvt Ltd,19,4,7613193,4345883,713,Yes,Approved
+Axis,Trust,45,5,7733132,4729099,723,No,Rejected
+Axis,Pvt Ltd,52,6,7976437,4223125,806,Yes,Rejected
+Axis,Partnership,26,9,29806113,2053569,753,Yes,Approved
+Axis,LLP,40,3,32696087,846473,718,Yes,Approved
+Axis,Trust,19,4,7884743,4914188,671,No,Approved
+Axis,Pvt Ltd,41,10,24839815,3794962,880,Yes,Approved
+Axis,LLP,45,9,26394694,3951379,845,No,Approved
+Axis,Trust,45,10,25013190,3622702,831,No,Approved
+Axis,Trust,44,5,8689355,4134137,681,No,Rejected
+Axis,Trust,47,5,8446131,4593091,673,No,Rejected
+Axis,Partnership,24,5,7705256,4923426,722,No,Rejected
+Axis,Partnership,41,9,27571047,4144315,911,Yes,Approved
+Axis,Partnership,43,10,24943758,3829187,886,No,Approved
+Axis,Proprietor,21,5,7367285,4900017,760,No,Approved
+Axis,LLP,27,10,30926934,2241561,678,Yes,Approved
+Axis,Trust,26,6,7877526,4756151,787,No,Rejected
+Axis,LLP,41,10,24448537,3807465,810,No,Approved
+Axis,Partnership,27,5,7853355,4340662,759,No,Rejected
+Axis,Partnership,38,10,28069495,4105166,770,No,Approved
+Axis,Trust,41,9,27015989,3894587,800,Yes,Approved
+Axis,Partnership,29,5,8650356,4857542,771,Yes,Rejected
+Axis,Proprietor,28,10,26700844,2421714,647,No,Approved
+Axis,LLP,25,10,31303724,2396570,652,Yes,Approved
+Axis,Pvt Ltd,40,9,25387484,4184765,759,No,Approved
+Axis,Proprietor,43,3,34142450,998330,782,No,Approved
+Axis,Trust,28,9,29434818,2397474,667,Yes,Approved
+Axis,LLP,29,6,8024581,4341161,765,No,Rejected
+Axis,Proprietor,40,10,26415876,3989605,925,No,Approved
+Axis,LLP,41,4,31384038,960352,661,Yes,Approved
+Axis,Proprietor,47,6,7768943,4603251,753,No,Rejected
+Axis,LLP,43,3,28243100,1005504,697,Yes,Approved
+Axis,Proprietor,28,9,28167419,2323158,746,Yes,Approved
+Axis,Pvt Ltd,25,6,8274203,4889871,757,Yes,Rejected
+Axis,Proprietor,38,4,32907772,1008919,694,Yes,Approved
+Axis,LLP,21,5,7821752,4325060,702,Yes,Approved
+Axis,Partnership,43,9,24452480,3942638,909,No,Approved
+Axis,Pvt Ltd,39,9,27416949,3928901,880,Yes,Approved
+Axis,Partnership,37,3,31278222,964192,740,No,Approved
+Axis,LLP,28,6,8386691,5152367,737,No,Rejected
+Axis,Trust,20,5,7887360,5111920,674,No,Approved
+Axis,Trust,25,9,30826130,2092407,696,No,Approved
+Axis,Partnership,24,5,8654243,4480994,696,Yes,Rejected
+Axis,Proprietor,24,5,9025530,5066023,696,Yes,Rejected
+Axis,Partnership,21,5,6984683,5080695,686,No,Approved
+Axis,LLP,30,10,27336192,2040855,632,No,Approved
+Axis,Partnership,41,9,25077880,3624122,885,No,Approved
+Axis,Trust,44,9,28077279,4040392,889,No,Approved
+Axis,LLP,46,9,23670230,3947552,907,No,Approved
+Axis,Partnership,26,6,9112771,5165040,744,No,Rejected
+Axis,Partnership,30,10,29674411,2456808,708,No,Approved
+Axis,Partnership,41,10,27558410,4085303,823,Yes,Approved
+Axis,Proprietor,27,6,8395948,4442479,754,No,Rejected
+Axis,LLP,28,9,27697349,2246843,699,No,Approved
+Axis,Trust,44,10,27706951,3866521,821,No,Approved
+Axis,Trust,50,6,8559455,4811509,688,Yes,Rejected
+Axis,Partnership,26,6,8562295,4335919,767,Yes,Rejected
+Axis,Trust,43,6,8023467,4451766,726,Yes,Rejected
+Axis,LLP,42,4,32839342,870292,761,No,Approved
+Axis,Proprietor,43,6,7997321,4793555,717,Yes,Rejected
+Axis,Proprietor,46,5,8817521,4404390,680,Yes,Rejected
+Axis,Pvt Ltd,43,3,33607763,851184,722,Yes,Approved
+Axis,LLP,38,3,31720652,902464,710,No,Approved
+Axis,Proprietor,51,5,7791161,4313611,732,Yes,Rejected
+Axis,Proprietor,20,4,7242667,4779672,716,No,Approved
+Axis,Partnership,44,3,28672711,947398,760,No,Approved
+Axis,Proprietor,43,4,29617340,830948,736,Yes,Approved
+Axis,LLP,46,10,26604755,4098291,798,No,Approved
+Axis,Proprietor,20,5,7707296,4481434,758,Yes,Approved
+Axis,Trust,22,4,7707660,4402445,631,No,Approved
+Axis,Trust,28,6,9308018,5058983,687,Yes,Rejected
+Axis,Proprietor,46,9,25779768,4193741,782,Yes,Approved
+Axis,LLP,22,4,8098719,4536379,737,Yes,Approved
+Axis,Partnership,26,10,31890816,2224851,711,Yes,Approved
+Axis,Pvt Ltd,39,4,34282534,953734,795,Yes,Approved
+Axis,Partnership,38,3,28548238,894881,663,Yes,Approved
+Axis,Proprietor,40,10,27332589,3727440,903,No,Approved
+Axis,Trust,38,4,29634297,907759,721,No,Approved
+Axis,LLP,27,10,31093553,2452795,742,Yes,Approved
+Axis,Trust,49,5,8396171,4040787,807,No,Rejected
+Axis,Trust,45,5,8025523,4368408,691,No,Rejected
+Axis,LLP,43,10,26638141,4382535,919,No,Approved
+Axis,LLP,38,3,31258129,941939,667,Yes,Approved
+Axis,LLP,29,5,8993496,4397407,685,Yes,Rejected
+Axis,Proprietor,24,5,8125205,4596601,705,Yes,Rejected
+Axis,Pvt Ltd,51,6,8777527,3987551,786,No,Rejected
+Axis,Trust,50,6,7675206,4465320,767,Yes,Rejected
+Axis,Pvt Ltd,19,4,7204694,5003644,667,No,Approved
+Axis,Partnership,20,4,8300256,4785802,763,Yes,Approved
+Axis,LLP,43,5,7839121,4338996,815,No,Rejected
+Axis,Pvt Ltd,26,9,27874767,2484627,695,No,Approved
+Axis,Proprietor,46,6,7570827,4615278,803,Yes,Rejected
+Axis,Pvt Ltd,44,10,24781405,4191395,857,No,Approved
+Axis,Pvt Ltd,43,10,26894482,3820255,773,Yes,Approved
+Axis,Proprietor,43,9,24892291,3678173,826,Yes,Approved
+Axis,LLP,19,5,7384833,4578678,738,Yes,Approved
+Axis,Proprietor,39,9,28039180,3896578,917,Yes,Approved
+Axis,Proprietor,23,4,7707366,5014643,715,Yes,Approved
+Axis,Partnership,44,5,8049539,4137592,752,No,Rejected
+Axis,Pvt Ltd,49,5,7469374,4412865,780,Yes,Rejected
+Axis,Trust,41,9,28155067,3901159,821,Yes,Approved
+Axis,Trust,28,5,7710331,4505533,785,Yes,Rejected
+Axis,Proprietor,44,4,32472065,929536,697,Yes,Approved
+Axis,Proprietor,39,4,32312115,897547,729,Yes,Approved
+Axis,Pvt Ltd,41,10,25277152,4406718,836,No,Approved
+Axis,Trust,49,5,8742232,4583473,814,Yes,Rejected
+Axis,Pvt Ltd,40,10,24369137,4123324,818,Yes,Approved
+Axis,Proprietor,43,6,8126594,3987659,810,No,Rejected
+Axis,Trust,21,5,8318932,5106733,639,No,Approved
+Axis,Trust,39,4,28469442,834978,683,Yes,Approved
+Axis,LLP,45,5,8473299,4581355,809,No,Rejected
+Axis,LLP,41,4,34143700,970004,699,Yes,Approved
+Axis,Partnership,51,6,8225211,4390616,694,Yes,Rejected
+Axis,Partnership,29,10,31572643,2141228,756,Yes,Approved
+Axis,Proprietor,44,3,33799284,866810,671,No,Approved
+Axis,Pvt Ltd,29,9,26873130,2070851,634,Yes,Approved
+Axis,LLP,44,3,28419607,946509,794,No,Approved
+Axis,Trust,20,4,7068607,4991799,716,Yes,Approved
+Axis,Partnership,28,5,8311102,4633110,737,No,Rejected
+Axis,Pvt Ltd,20,5,8184207,4386915,647,No,Approved
+Axis,Proprietor,28,10,31896160,2275089,727,No,Approved
+Axis,Pvt Ltd,51,6,7997511,4425294,775,Yes,Rejected
+Axis,Trust,30,9,29669773,2068515,639,No,Approved
+Axis,Pvt Ltd,42,9,28113455,3943754,909,Yes,Approved
+Axis,Proprietor,40,10,24312649,3676139,839,Yes,Approved
+Axis,Partnership,28,5,7872630,4557394,705,No,Rejected
+Axis,LLP,38,3,29506692,918989,670,Yes,Approved
+Axis,Proprietor,28,10,31375555,2246268,717,Yes,Approved
+Axis,Trust,48,6,7927987,4222739,774,No,Rejected
+Axis,Trust,21,5,7168536,5048951,655,No,Approved
+Axis,Pvt Ltd,44,3,31922839,872037,756,No,Approved
+Axis,Partnership,19,4,7273554,4684328,728,No,Approved
+Axis,Proprietor,46,6,8775488,4677926,674,No,Rejected
+Axis,Trust,24,5,8836002,4572843,749,Yes,Rejected
+Axis,LLP,27,9,29159099,2099721,625,Yes,Approved
+Axis,LLP,26,6,7695924,4365233,719,Yes,Rejected
+Axis,Proprietor,26,6,8685970,4719358,677,Yes,Rejected
+Axis,Trust,49,5,7714249,4634869,689,Yes,Rejected
+Axis,LLP,26,5,8601512,4658016,751,Yes,Rejected
+Axis,Pvt Ltd,45,9,28123135,4198952,781,No,Approved
+Axis,Trust,41,4,31766606,994235,706,No,Approved
+Axis,Trust,26,6,7840922,4307294,664,Yes,Rejected
+Axis,Pvt Ltd,44,3,31697891,998098,720,Yes,Approved
+Axis,Proprietor,46,6,7536311,4526896,782,Yes,Rejected
+Axis,LLP,25,6,7938425,4253931,665,Yes,Rejected
+Axis,Partnership,47,5,7244346,4503905,673,No,Rejected
+Axis,Pvt Ltd,20,5,8203470,4368418,633,Yes,Approved
+Axis,Trust,29,6,9228802,4685283,796,Yes,Rejected
+Axis,LLP,27,6,9264724,4575554,797,No,Rejected
+Axis,Trust,26,10,28029373,2390569,659,No,Approved
+Axis,LLP,43,5,8070328,4291795,799,No,Rejected
+Axis,Pvt Ltd,28,5,8074430,4625620,732,No,Rejected
+Axis,Trust,44,9,23699674,4388668,842,Yes,Approved
+Axis,Pvt Ltd,30,10,30265105,2371734,753,Yes,Approved
+Axis,Proprietor,26,5,7977609,4344527,701,Yes,Rejected
+Axis,Pvt Ltd,21,5,7010322,4373034,667,Yes,Approved
+Axis,Proprietor,30,9,26455410,2245091,647,No,Approved
+Axis,LLP,43,3,30975947,863614,753,No,Approved
+Axis,LLP,27,9,28690890,2380738,681,Yes,Approved
+Axis,Proprietor,43,4,34234848,969023,772,No,Approved
+Axis,LLP,46,10,24934181,4183902,769,No,Approved
+Axis,Proprietor,42,3,32196863,956264,766,Yes,Approved
+Axis,Proprietor,37,4,31349175,969800,803,Yes,Approved
+Axis,Trust,28,10,27308790,2447980,662,Yes,Approved
+Axis,LLP,50,5,7689272,4642830,704,No,Rejected
+Axis,Partnership,37,4,28683196,987855,669,Yes,Approved
+Axis,Partnership,27,6,7706275,4999724,754,No,Rejected
+Axis,Partnership,29,10,30115711,2227345,682,No,Approved
+Axis,Trust,49,5,8432548,3956799,806,No,Rejected
+Axis,Partnership,43,5,8819988,4156336,732,Yes,Rejected
+Axis,Trust,52,5,7811630,3998328,769,No,Rejected
+Axis,LLP,47,9,26303634,4185108,816,Yes,Approved
+Axis,Proprietor,40,10,24204331,3887371,787,No,Approved
+Axis,Partnership,46,9,25187595,4102203,764,Yes,Approved
+Axis,Pvt Ltd,25,6,8642843,4597389,681,No,Rejected
+Axis,Trust,43,6,8091266,3957824,697,No,Rejected
+Axis,Trust,27,9,26734164,2166255,653,Yes,Approved
+Axis,Pvt Ltd,23,5,8122819,4850511,693,No,Approved
+Axis,Trust,49,6,7273006,4163167,723,No,Rejected
+Axis,Pvt Ltd,27,5,8817670,4971916,703,Yes,Rejected
+Axis,LLP,19,4,7649606,4259657,655,Yes,Approved
+Axis,Partnership,27,10,27258030,2297146,687,Yes,Approved
+Axis,Pvt Ltd,40,10,25838594,4410930,843,Yes,Approved
+Axis,Trust,42,10,26849854,4388181,763,Yes,Approved
+Axis,Trust,29,6,8927825,4959445,658,Yes,Rejected
+Axis,Partnership,47,9,25988155,4148418,925,No,Approved
+Axis,LLP,52,5,8455564,4347319,782,Yes,Rejected
+Axis,Pvt Ltd,27,5,8706082,4768564,798,No,Rejected
+Axis,Pvt Ltd,18,4,7491983,5092323,739,Yes,Approved
+Axis,Partnership,25,5,8497672,5145586,665,No,Rejected
+Axis,Proprietor,29,5,7699106,4995153,683,No,Rejected
+Axis,LLP,27,9,28298829,2323202,698,No,Approved
+Axis,Pvt Ltd,20,4,7569644,4309434,664,Yes,Approved
+Axis,Proprietor,26,10,30655020,2433533,705,No,Approved
+Axis,Trust,41,10,26103022,3989829,819,No,Approved
+Axis,Proprietor,26,5,8956564,5123804,797,No,Rejected
+Axis,Trust,28,5,8599471,5186439,787,No,Rejected
+Axis,LLP,26,9,27354732,2058466,754,Yes,Approved
+Axis,Proprietor,42,9,27537934,3944312,908,No,Approved
+Axis,Partnership,43,6,7715159,4048662,766,No,Rejected
+Axis,LLP,37,4,29412607,845238,717,No,Approved
+Axis,Pvt Ltd,47,5,8406224,4407352,719,Yes,Rejected
+Axis,Pvt Ltd,45,5,8505277,4430783,772,No,Rejected
+Axis,Proprietor,52,5,7399371,4454718,742,No,Rejected
+Axis,Pvt Ltd,30,10,30085030,2229728,722,No,Approved
+Axis,Pvt Ltd,26,5,7845963,4849487,800,No,Rejected
+Axis,Partnership,42,4,30094164,1008652,774,Yes,Approved
+Axis,Trust,50,6,8359978,4396043,781,No,Rejected
+Axis,Pvt Ltd,26,6,8172297,5018692,755,Yes,Rejected
+Axis,LLP,41,9,25101030,4100510,760,Yes,Approved
+Axis,Trust,22,5,7460174,4408172,689,Yes,Approved
+Axis,Trust,41,4,34082531,997268,758,No,Approved
+Axis,Partnership,40,4,28809534,874748,763,No,Approved
+Axis,Proprietor,26,10,31337975,2239811,703,No,Approved
+Axis,Partnership,48,5,7371574,4540498,759,No,Rejected
+Axis,Partnership,28,9,31953370,2405842,733,Yes,Approved
+Axis,Partnership,21,4,6950821,5041250,648,Yes,Approved
+Axis,Pvt Ltd,38,10,23236552,4093359,874,Yes,Approved
+Axis,Partnership,21,4,7683801,4687297,728,No,Approved
+Axis,Pvt Ltd,45,10,24386409,3648316,835,Yes,Approved
+Axis,Partnership,40,10,25248101,4027092,770,No,Approved
+Axis,Partnership,50,6,7742799,4683216,714,No,Rejected
+Axis,Pvt Ltd,42,9,24314467,4138711,850,Yes,Approved
+Axis,Trust,42,10,27978262,3971445,861,Yes,Approved
+Axis,Partnership,44,3,30702478,966859,782,No,Approved
+Axis,Proprietor,27,5,7942461,4897985,675,No,Rejected
+Axis,Trust,45,6,7920272,4037654,693,Yes,Rejected
+Axis,LLP,45,6,8294970,4239055,725,Yes,Rejected
+Axis,LLP,38,3,28437096,850873,803,No,Approved
+Axis,Partnership,26,5,7696395,4473233,778,Yes,Rejected
+Axis,Pvt Ltd,43,3,29038949,978242,726,Yes,Approved
+Axis,Proprietor,29,9,28135904,2082577,746,Yes,Approved
+Axis,LLP,20,4,7527040,4419910,703,No,Approved
+Axis,Proprietor,30,9,31392140,2239536,650,No,Approved
+Axis,Pvt Ltd,39,10,23810029,4183036,907,No,Approved
+Axis,Partnership,42,10,25793440,4148456,841,No,Approved
+Axis,Pvt Ltd,43,9,24360675,4274748,818,No,Approved
+Axis,Trust,38,3,31569598,892300,778,Yes,Approved
+Axis,Pvt Ltd,22,5,6979300,4895448,643,No,Approved
+Axis,Pvt Ltd,25,10,27593610,2315095,642,No,Approved
+Axis,Partnership,29,10,31647971,2374423,668,Yes,Approved
+Axis,Pvt Ltd,39,4,34013190,832298,699,Yes,Approved
+Axis,Trust,21,5,7485556,4801119,710,Yes,Approved
+Axis,Pvt Ltd,19,5,7860830,4449232,645,Yes,Approved
+Axis,Trust,40,4,31542220,905298,750,Yes,Approved
+Axis,Partnership,28,6,9371702,4301422,798,Yes,Rejected
+Axis,Proprietor,38,4,28958020,873030,690,Yes,Approved
+Axis,Trust,45,10,23928722,4391292,907,Yes,Approved
+Axis,Proprietor,25,10,31515094,2204143,633,No,Approved
+Axis,Partnership,20,5,8097002,4331951,764,Yes,Approved
+Axis,Proprietor,42,10,28090833,3846437,869,No,Approved
+Axis,LLP,30,9,31307344,2381666,724,No,Approved
+Axis,Proprietor,24,6,7845688,4294453,684,No,Rejected
+Axis,Pvt Ltd,26,5,9290697,4310391,782,No,Rejected
+Axis,Proprietor,22,4,8382466,4794469,682,Yes,Approved
+Axis,LLP,21,5,7572459,4800187,705,Yes,Approved
+Axis,Pvt Ltd,46,10,23309726,3655527,798,Yes,Approved
+Axis,Partnership,25,5,9077608,4964935,742,No,Rejected
+Axis,Proprietor,28,5,7984955,4374431,669,Yes,Rejected
+Axis,LLP,43,9,25632387,3890693,889,No,Approved
+Axis,LLP,27,10,31684613,2044260,733,No,Approved
+Axis,Pvt Ltd,37,4,31372083,935346,737,No,Approved
+Axis,LLP,25,5,8909580,4312822,682,No,Rejected
+Axis,Trust,29,10,29968729,2057349,726,No,Approved
+Axis,Partnership,44,6,8505844,4366421,768,No,Rejected
+Axis,Partnership,28,9,29287197,2424084,721,Yes,Approved
+Axis,Proprietor,27,6,9287748,4930202,677,Yes,Rejected
+Axis,LLP,37,4,30238283,842182,677,Yes,Approved
+Axis,LLP,21,5,7889604,4600450,667,No,Approved
+Axis,LLP,42,10,26081653,4065076,900,Yes,Approved
+Axis,Partnership,46,10,24124637,4114135,886,Yes,Approved
+Axis,Trust,45,6,7895526,3975559,786,No,Rejected
+Axis,Trust,40,3,31822719,925554,739,No,Approved
+Axis,Pvt Ltd,41,3,31092458,850649,785,No,Approved
+Axis,LLP,19,4,7012235,4784119,680,No,Approved
+Axis,Pvt Ltd,25,6,8473191,5058714,720,No,Rejected
+Axis,Trust,44,3,29127595,860748,671,No,Approved
+Axis,Proprietor,27,6,8381649,4789748,690,No,Rejected
+Axis,Proprietor,37,4,33543909,941267,696,Yes,Approved
+Axis,Partnership,26,10,31478182,2133207,743,Yes,Approved
+Axis,Proprietor,40,10,23492218,4132983,819,No,Approved
+Axis,Pvt Ltd,28,9,27133968,2401111,623,Yes,Approved
+Axis,Proprietor,41,10,24732711,3951498,833,No,Approved
+Axis,Trust,28,6,7945021,5089464,703,No,Rejected
+Axis,Partnership,25,10,28204350,2092162,722,Yes,Approved
+Axis,Partnership,28,9,28924164,2438519,639,Yes,Approved
+Axis,Pvt Ltd,20,5,8055483,4238455,743,No,Approved
+Axis,Partnership,43,3,33804855,880023,671,No,Approved
+Axis,LLP,24,5,7878054,4513910,761,No,Rejected
+Axis,Partnership,42,3,28851133,880258,700,Yes,Approved
+Axis,Pvt Ltd,45,5,8707914,4082417,719,No,Rejected
+Axis,Trust,45,5,7369455,4293254,731,Yes,Rejected
+Axis,Partnership,42,10,24667598,4208866,876,Yes,Approved
+Axis,Pvt Ltd,20,4,6997457,4491438,684,No,Approved
+Axis,Trust,50,6,8227236,4137693,747,Yes,Rejected
+Axis,Proprietor,20,4,7607235,4954283,660,No,Approved
+Axis,Pvt Ltd,21,5,8380498,4651097,632,Yes,Approved
+Axis,Trust,26,5,8591072,4324737,789,Yes,Rejected
+Axis,Trust,50,5,7481955,4637891,795,Yes,Rejected
+Axis,Partnership,25,10,27903446,2396661,692,No,Approved
+Axis,Partnership,42,4,32829662,842553,739,No,Approved
+Axis,Proprietor,46,5,7583219,4785966,735,No,Rejected
+Axis,Partnership,26,6,7752806,4368729,781,Yes,Rejected
+Axis,Pvt Ltd,46,6,8600587,4492889,793,Yes,Rejected
+Axis,Proprietor,19,4,8062972,4273962,695,Yes,Approved
+Axis,Trust,52,5,7507038,4305059,757,No,Rejected
+Axis,Trust,29,10,27380513,2265515,739,Yes,Approved
+Axis,Trust,20,4,7312810,4323395,707,Yes,Approved
+Axis,Partnership,52,5,8097540,4658070,670,Yes,Rejected
+Axis,Trust,29,5,8321555,5174414,658,Yes,Rejected
+Axis,Trust,29,6,7722032,4453476,716,No,Rejected
+Axis,Pvt Ltd,24,6,8346600,4505543,797,Yes,Rejected
+Axis,Trust,28,6,9304213,4391875,796,No,Rejected
+Axis,Pvt Ltd,19,4,7613193,4345883,713,Yes,Approved
+Axis,Trust,45,5,7733132,4729099,723,No,Rejected
+Axis,Pvt Ltd,52,6,7976437,4223125,806,Yes,Rejected
+Axis,Partnership,26,9,29806113,2053569,753,Yes,Approved
+Axis,LLP,40,3,32696087,846473,718,Yes,Approved
+Axis,Trust,19,4,7884743,4914188,671,No,Approved
+Axis,Pvt Ltd,41,10,24839815,3794962,880,Yes,Approved
+Axis,LLP,45,9,26394694,3951379,845,No,Approved
+Axis,Trust,45,10,25013190,3622702,831,No,Approved
+Axis,Trust,44,5,8689355,4134137,681,No,Rejected
+Axis,Trust,47,5,8446131,4593091,673,No,Rejected
+Axis,Partnership,24,5,7705256,4923426,722,No,Rejected
+Axis,Partnership,41,9,27571047,4144315,911,Yes,Approved
+Axis,Partnership,43,10,24943758,3829187,886,No,Approved
+Axis,Proprietor,21,5,7367285,4900017,760,No,Approved
+Axis,LLP,27,10,30926934,2241561,678,Yes,Approved
+Axis,Trust,26,6,7877526,4756151,787,No,Rejected
+Axis,LLP,41,10,24448537,3807465,810,No,Approved
+Axis,Partnership,27,5,7853355,4340662,759,No,Rejected
+Axis,Partnership,38,10,28069495,4105166,770,No,Approved
+Axis,Trust,41,9,27015989,3894587,800,Yes,Approved
+Axis,Partnership,29,5,8650356,4857542,771,Yes,Rejected
+Axis,Proprietor,28,10,26700844,2421714,647,No,Approved
+Axis,LLP,25,10,31303724,2396570,652,Yes,Approved
+Axis,Pvt Ltd,40,9,25387484,4184765,759,No,Approved
+Axis,Proprietor,43,3,34142450,998330,782,No,Approved
+Axis,Trust,28,9,29434818,2397474,667,Yes,Approved
+Axis,LLP,29,6,8024581,4341161,765,No,Rejected
+Axis,Proprietor,40,10,26415876,3989605,925,No,Approved
+Axis,LLP,41,4,31384038,960352,661,Yes,Approved
+Axis,Proprietor,47,6,7768943,4603251,753,No,Rejected
+Axis,LLP,43,3,28243100,1005504,697,Yes,Approved
+Axis,Proprietor,28,9,28167419,2323158,746,Yes,Approved
+Axis,Pvt Ltd,25,6,8274203,4889871,757,Yes,Rejected
+Axis,Proprietor,38,4,32907772,1008919,694,Yes,Approved
+Axis,LLP,21,5,7821752,4325060,702,Yes,Approved
+Axis,Partnership,43,9,24452480,3942638,909,No,Approved
+Axis,Pvt Ltd,39,9,27416949,3928901,880,Yes,Approved
+Axis,Partnership,37,3,31278222,964192,740,No,Approved
+Axis,LLP,28,6,8386691,5152367,737,No,Rejected
+Axis,Trust,20,5,7887360,5111920,674,No,Approved
+Axis,Trust,25,9,30826130,2092407,696,No,Approved
+Axis,Partnership,24,5,8654243,4480994,696,Yes,Rejected
+Axis,Proprietor,24,5,9025530,5066023,696,Yes,Rejected
+Axis,Partnership,21,5,6984683,5080695,686,No,Approved
+Axis,LLP,30,10,27336192,2040855,632,No,Approved
+Axis,Partnership,41,9,25077880,3624122,885,No,Approved
+Axis,Trust,44,9,28077279,4040392,889,No,Approved
+Axis,LLP,46,9,23670230,3947552,907,No,Approved
+Axis,Partnership,26,6,9112771,5165040,744,No,Rejected
+Axis,Partnership,30,10,29674411,2456808,708,No,Approved
+Axis,Partnership,41,10,27558410,4085303,823,Yes,Approved
+Axis,Proprietor,27,6,8395948,4442479,754,No,Rejected
+Axis,LLP,28,9,27697349,2246843,699,No,Approved
+Axis,Trust,44,10,27706951,3866521,821,No,Approved
+Axis,Trust,50,6,8559455,4811509,688,Yes,Rejected
+Axis,Partnership,26,6,8562295,4335919,767,Yes,Rejected
+Axis,Trust,43,6,8023467,4451766,726,Yes,Rejected
+Axis,LLP,42,4,32839342,870292,761,No,Approved
+Axis,Proprietor,43,6,7997321,4793555,717,Yes,Rejected
+Axis,Proprietor,46,5,8817521,4404390,680,Yes,Rejected
+Axis,Pvt Ltd,43,3,33607763,851184,722,Yes,Approved
+Axis,LLP,38,3,31720652,902464,710,No,Approved
+Axis,Proprietor,51,5,7791161,4313611,732,Yes,Rejected
+Axis,Proprietor,20,4,7242667,4779672,716,No,Approved
+Axis,Partnership,44,3,28672711,947398,760,No,Approved
+Axis,Proprietor,43,4,29617340,830948,736,Yes,Approved
+Axis,LLP,46,10,26604755,4098291,798,No,Approved
+Axis,Proprietor,20,5,7707296,4481434,758,Yes,Approved
+Axis,Trust,22,4,7707660,4402445,631,No,Approved
+Axis,Trust,28,6,9308018,5058983,687,Yes,Rejected
+Axis,Proprietor,46,9,25779768,4193741,782,Yes,Approved
+Axis,LLP,22,4,8098719,4536379,737,Yes,Approved
+Axis,Partnership,26,10,31890816,2224851,711,Yes,Approved
+Axis,Pvt Ltd,39,4,34282534,953734,795,Yes,Approved
+Axis,Partnership,38,3,28548238,894881,663,Yes,Approved
+Axis,Proprietor,40,10,27332589,3727440,903,No,Approved
+Axis,Trust,38,4,29634297,907759,721,No,Approved
+Axis,LLP,27,10,31093553,2452795,742,Yes,Approved
+Axis,Trust,49,5,8396171,4040787,807,No,Rejected
+Axis,Trust,45,5,8025523,4368408,691,No,Rejected
+Axis,LLP,43,10,26638141,4382535,919,No,Approved
+Axis,LLP,38,3,31258129,941939,667,Yes,Approved
+Axis,LLP,29,5,8993496,4397407,685,Yes,Rejected
+Axis,Proprietor,24,5,8125205,4596601,705,Yes,Rejected
+Axis,Pvt Ltd,51,6,8777527,3987551,786,No,Rejected
+Axis,Trust,50,6,7675206,4465320,767,Yes,Rejected
+Axis,Pvt Ltd,19,4,7204694,5003644,667,No,Approved
+Axis,Partnership,20,4,8300256,4785802,763,Yes,Approved
+Axis,LLP,43,5,7839121,4338996,815,No,Rejected
+Axis,Pvt Ltd,26,9,27874767,2484627,695,No,Approved
+Axis,Proprietor,46,6,7570827,4615278,803,Yes,Rejected
+Axis,Pvt Ltd,44,10,24781405,4191395,857,No,Approved
+Axis,Pvt Ltd,43,10,26894482,3820255,773,Yes,Approved
+Axis,Proprietor,43,9,24892291,3678173,826,Yes,Approved
+Axis,LLP,19,5,7384833,4578678,738,Yes,Approved
+Axis,Proprietor,39,9,28039180,3896578,917,Yes,Approved
+Axis,Proprietor,23,4,7707366,5014643,715,Yes,Approved
+Axis,Partnership,44,5,8049539,4137592,752,No,Rejected
+Axis,Pvt Ltd,49,5,7469374,4412865,780,Yes,Rejected
+Axis,Trust,41,9,28155067,3901159,821,Yes,Approved
+Axis,Trust,28,5,7710331,4505533,785,Yes,Rejected
+Axis,Proprietor,44,4,32472065,929536,697,Yes,Approved
+Axis,Proprietor,39,4,32312115,897547,729,Yes,Approved
+Axis,Pvt Ltd,41,10,25277152,4406718,836,No,Approved
+Axis,Trust,49,5,8742232,4583473,814,Yes,Rejected
+Axis,Pvt Ltd,40,10,24369137,4123324,818,Yes,Approved
+Axis,Proprietor,43,6,8126594,3987659,810,No,Rejected
+Axis,Trust,21,5,8318932,5106733,639,No,Approved
+Axis,Trust,39,4,28469442,834978,683,Yes,Approved
+Axis,LLP,45,5,8473299,4581355,809,No,Rejected
+Axis,LLP,41,4,34143700,970004,699,Yes,Approved
+Axis,Partnership,51,6,8225211,4390616,694,Yes,Rejected
+Axis,Partnership,29,10,31572643,2141228,756,Yes,Approved
+Axis,Proprietor,44,3,33799284,866810,671,No,Approved
+Axis,Pvt Ltd,29,9,26873130,2070851,634,Yes,Approved
+Axis,LLP,44,3,28419607,946509,794,No,Approved
+Axis,Trust,20,4,7068607,4991799,716,Yes,Approved
+Axis,Partnership,28,5,8311102,4633110,737,No,Rejected
+Axis,Pvt Ltd,20,5,8184207,4386915,647,No,Approved
+Axis,Proprietor,28,10,31896160,2275089,727,No,Approved
+Axis,Pvt Ltd,51,6,7997511,4425294,775,Yes,Rejected
+Axis,Trust,30,9,29669773,2068515,639,No,Approved
+Axis,Pvt Ltd,42,9,28113455,3943754,909,Yes,Approved
+Axis,Proprietor,40,10,24312649,3676139,839,Yes,Approved
+Axis,Partnership,28,5,7872630,4557394,705,No,Rejected
+Axis,LLP,38,3,29506692,918989,670,Yes,Approved
+Axis,Proprietor,28,10,31375555,2246268,717,Yes,Approved
+Axis,Trust,48,6,7927987,4222739,774,No,Rejected
+Axis,Trust,21,5,7168536,5048951,655,No,Approved
+Axis,Pvt Ltd,44,3,31922839,872037,756,No,Approved
+Axis,Partnership,19,4,7273554,4684328,728,No,Approved
+Axis,Proprietor,46,6,8775488,4677926,674,No,Rejected
+Axis,Trust,24,5,8836002,4572843,749,Yes,Rejected
+Axis,LLP,27,9,29159099,2099721,625,Yes,Approved
+Axis,LLP,26,6,7695924,4365233,719,Yes,Rejected
+Axis,Proprietor,26,6,8685970,4719358,677,Yes,Rejected
+Axis,Trust,49,5,7714249,4634869,689,Yes,Rejected
+Axis,LLP,26,5,8601512,4658016,751,Yes,Rejected
+Axis,Pvt Ltd,45,9,28123135,4198952,781,No,Approved
+Axis,Trust,41,4,31766606,994235,706,No,Approved
+Axis,Trust,26,6,7840922,4307294,664,Yes,Rejected
+Axis,Pvt Ltd,44,3,31697891,998098,720,Yes,Approved
+Axis,Proprietor,46,6,7536311,4526896,782,Yes,Rejected
+Axis,LLP,25,6,7938425,4253931,665,Yes,Rejected
+Axis,Partnership,47,5,7244346,4503905,673,No,Rejected
+Axis,Pvt Ltd,20,5,8203470,4368418,633,Yes,Approved
+Axis,Trust,29,6,9228802,4685283,796,Yes,Rejected
+Axis,LLP,27,6,9264724,4575554,797,No,Rejected
+Axis,Trust,26,10,28029373,2390569,659,No,Approved
+Axis,LLP,43,5,8070328,4291795,799,No,Rejected
+Axis,Pvt Ltd,28,5,8074430,4625620,732,No,Rejected
+Axis,Trust,44,9,23699674,4388668,842,Yes,Approved
+Axis,Pvt Ltd,30,10,30265105,2371734,753,Yes,Approved
+Axis,Proprietor,26,5,7977609,4344527,701,Yes,Rejected
+Axis,Pvt Ltd,21,5,7010322,4373034,667,Yes,Approved
+Axis,Proprietor,30,9,26455410,2245091,647,No,Approved
+Axis,LLP,43,3,30975947,863614,753,No,Approved
+Axis,LLP,27,9,28690890,2380738,681,Yes,Approved
+Axis,Proprietor,43,4,34234848,969023,772,No,Approved
+Axis,LLP,46,10,24934181,4183902,769,No,Approved
+Axis,Proprietor,42,3,32196863,956264,766,Yes,Approved
+Axis,Proprietor,37,4,31349175,969800,803,Yes,Approved
+Axis,Trust,28,10,27308790,2447980,662,Yes,Approved
+Axis,LLP,50,5,7689272,4642830,704,No,Rejected
+Axis,Partnership,37,4,28683196,987855,669,Yes,Approved
+Axis,Partnership,27,6,7706275,4999724,754,No,Rejected
+Axis,Partnership,29,10,30115711,2227345,682,No,Approved
+Axis,Trust,49,5,8432548,3956799,806,No,Rejected
+Axis,Partnership,43,5,8819988,4156336,732,Yes,Rejected
+Axis,Trust,52,5,7811630,3998328,769,No,Rejected
+Axis,LLP,47,9,26303634,4185108,816,Yes,Approved
+Axis,Proprietor,40,10,24204331,3887371,787,No,Approved
+Axis,Partnership,46,9,25187595,4102203,764,Yes,Approved
+Axis,Pvt Ltd,25,6,8642843,4597389,681,No,Rejected
+Axis,Trust,43,6,8091266,3957824,697,No,Rejected
+Axis,Trust,27,9,26734164,2166255,653,Yes,Approved
+Axis,Pvt Ltd,23,5,8122819,4850511,693,No,Approved
+Axis,Trust,49,6,7273006,4163167,723,No,Rejected
+Axis,Pvt Ltd,27,5,8817670,4971916,703,Yes,Rejected
+Axis,LLP,19,4,7649606,4259657,655,Yes,Approved
+Axis,Partnership,27,10,27258030,2297146,687,Yes,Approved
+Axis,Pvt Ltd,40,10,25838594,4410930,843,Yes,Approved
+Axis,Trust,42,10,26849854,4388181,763,Yes,Approved
+Axis,Trust,29,6,8927825,4959445,658,Yes,Rejected
+Axis,Partnership,47,9,25988155,4148418,925,No,Approved
+Axis,LLP,52,5,8455564,4347319,782,Yes,Rejected
+Axis,Pvt Ltd,27,5,8706082,4768564,798,No,Rejected
+Axis,Pvt Ltd,18,4,7491983,5092323,739,Yes,Approved
+Axis,Partnership,25,5,8497672,5145586,665,No,Rejected
+Axis,Proprietor,29,5,7699106,4995153,683,No,Rejected
+Axis,LLP,27,9,28298829,2323202,698,No,Approved
+Axis,Pvt Ltd,20,4,7569644,4309434,664,Yes,Approved
+Axis,Proprietor,26,10,30655020,2433533,705,No,Approved
+Axis,Trust,41,10,26103022,3989829,819,No,Approved
+Axis,Proprietor,26,5,8956564,5123804,797,No,Rejected
+Axis,Trust,28,5,8599471,5186439,787,No,Rejected
+Axis,LLP,26,9,27354732,2058466,754,Yes,Approved
+Axis,Proprietor,42,9,27537934,3944312,908,No,Approved
+Axis,Partnership,43,6,7715159,4048662,766,No,Rejected
+Axis,LLP,37,4,29412607,845238,717,No,Approved
+Axis,Pvt Ltd,47,5,8406224,4407352,719,Yes,Rejected
+Axis,Pvt Ltd,45,5,8505277,4430783,772,No,Rejected
+Axis,Proprietor,52,5,7399371,4454718,742,No,Rejected
+Axis,Pvt Ltd,30,10,30085030,2229728,722,No,Approved
+Axis,Pvt Ltd,26,5,7845963,4849487,800,No,Rejected
+Axis,Partnership,42,4,30094164,1008652,774,Yes,Approved
+Axis,Trust,50,6,8359978,4396043,781,No,Rejected
+Axis,Pvt Ltd,26,6,8172297,5018692,755,Yes,Rejected
+Axis,LLP,41,9,25101030,4100510,760,Yes,Approved
+Axis,Trust,22,5,7460174,4408172,689,Yes,Approved
+Axis,Trust,41,4,34082531,997268,758,No,Approved
+Axis,Partnership,40,4,28809534,874748,763,No,Approved
+Axis,Proprietor,26,10,31337975,2239811,703,No,Approved
+Axis,Partnership,48,5,7371574,4540498,759,No,Rejected
+Axis,Partnership,28,9,31953370,2405842,733,Yes,Approved
+Axis,Partnership,21,4,6950821,5041250,648,Yes,Approved
+Axis,Pvt Ltd,38,10,23236552,4093359,874,Yes,Approved
+Axis,Partnership,21,4,7683801,4687297,728,No,Approved
+Axis,Pvt Ltd,45,10,24386409,3648316,835,Yes,Approved
+Axis,Partnership,40,10,25248101,4027092,770,No,Approved
+Axis,Partnership,50,6,7742799,4683216,714,No,Rejected
+Axis,Pvt Ltd,42,9,24314467,4138711,850,Yes,Approved
+Axis,Trust,42,10,27978262,3971445,861,Yes,Approved
+Axis,Partnership,44,3,30702478,966859,782,No,Approved
+Axis,Proprietor,27,5,7942461,4897985,675,No,Rejected
+Axis,Trust,45,6,7920272,4037654,693,Yes,Rejected
+Axis,LLP,45,6,8294970,4239055,725,Yes,Rejected
+Axis,LLP,38,3,28437096,850873,803,No,Approved
+Axis,Partnership,26,5,7696395,4473233,778,Yes,Rejected
+Axis,Pvt Ltd,43,3,29038949,978242,726,Yes,Approved
+Axis,Proprietor,29,9,28135904,2082577,746,Yes,Approved
+Axis,LLP,20,4,7527040,4419910,703,No,Approved
+Axis,Proprietor,30,9,31392140,2239536,650,No,Approved
+Axis,Pvt Ltd,39,10,23810029,4183036,907,No,Approved
+Axis,Partnership,42,10,25793440,4148456,841,No,Approved
+Axis,Pvt Ltd,43,9,24360675,4274748,818,No,Approved
+Axis,Trust,38,3,31569598,892300,778,Yes,Approved
+Axis,Pvt Ltd,22,5,6979300,4895448,643,No,Approved
+Axis,Pvt Ltd,25,10,27593610,2315095,642,No,Approved
+Axis,Partnership,29,10,31647971,2374423,668,Yes,Approved
+Axis,Pvt Ltd,39,4,34013190,832298,699,Yes,Approved
+Axis,Trust,21,5,7485556,4801119,710,Yes,Approved
+Axis,Pvt Ltd,19,5,7860830,4449232,645,Yes,Approved
+Axis,Trust,40,4,31542220,905298,750,Yes,Approved
+Axis,Partnership,28,6,9371702,4301422,798,Yes,Rejected
+Axis,Proprietor,38,4,28958020,873030,690,Yes,Approved
+Axis,Trust,45,10,23928722,4391292,907,Yes,Approved
+Axis,Proprietor,25,10,31515094,2204143,633,No,Approved
+Axis,Partnership,20,5,8097002,4331951,764,Yes,Approved
+Axis,Proprietor,42,10,28090833,3846437,869,No,Approved
+Axis,LLP,30,9,31307344,2381666,724,No,Approved
+Axis,Proprietor,24,6,7845688,4294453,684,No,Rejected
+Axis,Pvt Ltd,26,5,9290697,4310391,782,No,Rejected
+Axis,Proprietor,22,4,8382466,4794469,682,Yes,Approved
+Axis,LLP,21,5,7572459,4800187,705,Yes,Approved
+Axis,Pvt Ltd,46,10,23309726,3655527,798,Yes,Approved
+Axis,Partnership,25,5,9077608,4964935,742,No,Rejected
+Axis,Proprietor,28,5,7984955,4374431,669,Yes,Rejected
+Axis,LLP,43,9,25632387,3890693,889,No,Approved
+Axis,LLP,27,10,31684613,2044260,733,No,Approved
+Axis,Pvt Ltd,37,4,31372083,935346,737,No,Approved
+Axis,LLP,25,5,8909580,4312822,682,No,Rejected
+Axis,Trust,29,10,29968729,2057349,726,No,Approved
+Axis,Partnership,44,6,8505844,4366421,768,No,Rejected
+Axis,Partnership,28,9,29287197,2424084,721,Yes,Approved
+Axis,Proprietor,28,9,28167419,2323158,746,Yes,Approved
+Axis,Proprietor,43,3,34142450,998330,782,No,Approved
+Axis,LLP,19,5,7384833,4578678,738,Yes,Approved
+Axis,Trust,28,10,27308790,2447980,662,Yes,Approved
+Axis,Trust,38,3,31569598,892300,778,Yes,Approved
+Axis,Pvt Ltd,44,10,24781405,4191395,857,No,Approved
+Axis,Partnership,28,9,28924164,2438519,639,Yes,Approved
+Axis,Trust,38,4,29634297,907759,721,No,Approved
+Axis,Trust,41,4,34082531,997268,758,No,Approved
+Axis,Trust,41,9,28155067,3901159,821,Yes,Approved
+Axis,Partnership,38,10,28069495,4105166,770,No,Approved
+Axis,Partnership,26,10,31890816,2224851,711,Yes,Approved
+Axis,Partnership,44,3,28672711,947398,760,No,Approved
+Axis,Trust,44,3,29127595,860748,671,No,Approved
+Axis,Pvt Ltd,40,9,25387484,4184765,759,No,Approved
+Axis,LLP,42,4,32839342,870292,761,No,Approved
+Axis,Partnership,20,4,8300256,4785802,763,Yes,Approved
+Axis,Proprietor,29,5,7699106,4995153,683,No,Rejected
+Axis,LLP,27,10,31093553,2452795,742,Yes,Approved
+Axis,Trust,50,6,8359978,4396043,781,No,Rejected
+Axis,Proprietor,37,4,33543909,941267,696,Yes,Approved
+Axis,LLP,45,5,8473299,4581355,809,No,Rejected
+Axis,Pvt Ltd,40,9,25387484,4184765,759,No,Approved
+Axis,Partnership,29,10,30115711,2227345,682,No,Approved
+Axis,Trust,49,5,8396171,4040787,807,No,Rejected
+Axis,LLP,24,5,7878054,4513910,761,No,Rejected
+Axis,Partnership,43,3,33804855,880023,671,No,Approved
+Axis,Partnership,20,4,8300256,4785802,763,Yes,Approved
+Axis,Proprietor,37,4,31349175,969800,803,Yes,Approved
+Axis,Proprietor,20,4,7242667,4779672,716,No,Approved
+Axis,LLP,46,10,24934181,4183902,769,No,Approved
+Axis,LLP,25,10,31303724,2396570,652,Yes,Approved
+Axis,Trust,41,10,26103022,3989829,819,No,Approved
+Axis,Proprietor,42,3,32196863,956264,766,Yes,Approved
+Axis,Trust,26,6,7877526,4756151,787,No,Rejected
+Axis,LLP,43,3,30975947,863614,753,No,Approved
+Axis,Trust,29,6,9228802,4685283,796,Yes,Rejected
+Axis,Trust,50,6,8227236,4137693,747,Yes,Rejected
+Axis,Trust,41,4,34082531,997268,758,No,Approved
+Axis,Pvt Ltd,20,4,7569644,4309434,664,Yes,Approved
+Axis,Trust,50,5,7481955,4637891,795,Yes,Rejected
+Axis,Partnership,44,5,8049539,4137592,752,No,Rejected
+Axis,Pvt Ltd,22,5,6979300,4895448,643,No,Approved
+Axis,Proprietor,43,4,34234848,969023,772,No,Approved
+Axis,Trust,49,5,8396171,4040787,807,No,Rejected
+Axis,LLP,20,4,7527040,4419910,703,No,Approved
+Axis,LLP,37,4,29412607,845238,717,No,Approved
+Axis,Proprietor,19,4,8062972,4273962,695,Yes,Approved
+Axis,Trust,50,6,7675206,4465320,767,Yes,Rejected
+Axis,Pvt Ltd,39,9,27416949,3928901,880,Yes,Approved
+Axis,Pvt Ltd,30,10,30265105,2371734,753,Yes,Approved
+Axis,Trust,29,6,7722032,4453476,716,No,Rejected
+Axis,Proprietor,27,6,9287748,4930202,677,Yes,Rejected
+Axis,Trust,44,9,28077279,4040392,889,No,Approved
+Axis,Trust,39,4,28469442,834978,683,Yes,Approved
+Axis,Partnership,20,5,8097002,4331951,764,Yes,Approved
+Axis,Proprietor,30,9,26455410,2245091,647,No,Approved
+Axis,Proprietor,43,6,8126594,3987659,810,No,Rejected
+Axis,Partnership,24,5,8654243,4480994,696,Yes,Rejected
+Axis,Trust,27,9,26734164,2166255,653,Yes,Approved
+Axis,LLP,19,4,7012235,4784119,680,No,Approved
+Axis,Proprietor,26,10,30655020,2433533,705,No,Approved
+Axis,Proprietor,43,6,7997321,4793555,717,Yes,Rejected
+Axis,Partnership,27,5,7853355,4340662,759,No,Rejected
+Axis,LLP,43,9,25632387,3890693,889,No,Approved
+Axis,LLP,45,6,8294970,4239055,725,Yes,Rejected
+Axis,Partnership,44,5,8049539,4137592,752,No,Rejected
+Axis,Trust,28,6,9304213,4391875,796,No,Rejected
+Axis,Pvt Ltd,25,6,8473191,5058714,720,No,Rejected
+Axis,Proprietor,43,9,24892291,3678173,826,Yes,Approved
+Axis,Proprietor,42,3,32196863,956264,766,Yes,Approved
+Axis,Partnership,37,3,31278222,964192,740,No,Approved
+Axis,Trust,50,6,8559455,4811509,688,Yes,Rejected
+Axis,Proprietor,39,4,32312115,897547,729,Yes,Approved
+Axis,Trust,30,9,29669773,2068515,639,No,Approved
+Axis,Pvt Ltd,42,9,24314467,4138711,850,Yes,Approved
+Axis,Partnership,40,4,28809534,874748,763,No,Approved
+Axis,Partnership,26,6,9112771,5165040,744,No,Rejected
+Axis,LLP,41,4,31384038,960352,661,Yes,Approved
+Axis,LLP,46,10,26604755,4098291,798,No,Approved
+Axis,Proprietor,28,10,26700844,2421714,647,No,Approved
+Axis,Proprietor,21,5,7367285,4900017,760,No,Approved
+Axis,Trust,21,5,7168536,5048951,655,No,Approved
+Axis,Partnership,28,5,7872630,4557394,705,No,Rejected
+Axis,Trust,21,5,7168536,5048951,655,No,Approved
+Axis,Partnership,37,3,31278222,964192,740,No,Approved
+Axis,Partnership,43,6,7715159,4048662,766,No,Rejected
+Axis,Proprietor,37,4,31349175,969800,803,Yes,Approved
+Axis,Trust,21,5,8318932,5106733,639,No,Approved

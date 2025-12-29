@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EMI Calculator | Calculate Loan EMI Online – Crelo</title>
+  <meta name="description"
+    content="Use Crelo's EMI calculator to estimate monthly loan payments accurately. Simple, fast, and free EMI calculation tool.">
+
+  <link rel="stylesheet" href="../static/css/emiCal.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <!-- HEADER STARTS -->
+  <header class="sticky-top bg-light shadow-sm">
+    <div class="container py-3">
+      <div class="d-flex justify-content-between align-items-center">
+
+        <!-- LEFT SIDE -->
+        <nav class="d-none d-md-flex gap-4">
+          <a href="index.html" class="text-dark text-decoration-none nav-link">Home</a>
+          <a href="loanapproval.html" class="text-dark text-decoration-none nav-link">Loan Approval</a>
+        </nav>
+
+        <!-- HAMBUGER MENU LEFT -->
+        <button class="btn d-md-none" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu1">
+          <i class="ri-menu-2-fill fs-4 text-black fw-semibold"></i>
+        </button>
+
+        <!-- LOGO -->
+        <div class="text-center">
+          <h3 class="site-name">Crelo</h3>
+          <!-- <img src="assets/img/Logo.png" alt="Company Logo" class="img-fluid" style="max-height: 45px;"> -->
+        </div>
+
+        <!-- RIGHT SIDE -->
+        <nav class="d-none d-md-flex gap-4">
+          <a href="emiCal.html" class="text-dark text-decoration-none active fw-bold nav-link" aria-current="page">EMI
+            Calculator</a>
+          <a href="tips.html" class="text-dark text-decoration-none nav-link">Tips & Tricks</a>
+        </nav>
+
+        <!-- HANDBURGER MENU RIGHT -->
+        <button class="btn d-md-none" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu2">
+          <i class="ri-menu-3-fill fs-4 text-black fw-semibold"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- MOBILE NAVBAR STARTS -->
+    <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="mobileMenu1">
+
+      <div class="offcanvas-header border-bottom border-secondary px-4">
+        <div class="d-flex flex-column">
+          <h5 class="offcanvas-title fw-bold mb-0">Navigation</h5>
+          <small class="text-secondary">Manage & Explore</small>
+        </div>
+
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+
+      <div class="offcanvas-body px-4 py-4 d-flex flex-column justify-content-between">
+
+        <div class="d-flex flex-column gap-2 fw-semibold">
+
+          <a href="index.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Home
+          </a>
+
+          <a href="loanapproval.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Loan Approval
+          </a>
+
+          <a href="emiCal.html"
+            class="nav-link text-white d-flex align-items-center gap-3 py-2 rounded bg-secondary bg-opacity-25">
+            <span class="text-info fw-bold">▸</span> EMI Calculator
+          </a>
+
+          <a href="tips.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Tips & Tricks
+          </a>
+
+        </div>
+
+        <div class="pt-4 border-top border-secondary">
+
+          <small class="text-secondary d-block mt-3">
+            Secure • Fast • Trusted
+          </small>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="offcanvas offcanvas-end bg-dark text-white" tabindex="-1" id="mobileMenu2">
+
+      <div class="offcanvas-header border-bottom border-secondary px-4">
+
+        <div class=" d-flex align-items-center justify-content-between w-100">
+
+          <div>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
+              aria-label="Close"></button>
+          </div>
+
+          <div>
+            <div class="d-flex flex-column">
+              <h5 class="offcanvas-title text-end fw-bold mb-0">Navigation</h5>
+              <small class="text-secondary">Manage & Explore</small>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="offcanvas-body px-4 py-4 d-flex flex-column justify-content-between text-end">
+
+        <div class="d-flex flex-column gap-2 fw-semibold align-items-end">
+
+          <a href="index.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Home <span class="text-info">◂</span>
+          </a>
+
+          <a href="loanapproval.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Loan Approval <span class="text-info">◂</span>
+          </a>
+
+          <a href="emiCal.html"
+            class="nav-link text-white d-flex align-items-center gap-3 py-2 rounded bg-secondary bg-opacity-25 justify-content-end w-100">
+            EMI Calculator <span class="text-info fw-bold">◂</span>
+          </a>
+
+          <a href="tips.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Tips & Tricks <span class="text-info">◂</span>
+          </a>
+
+        </div>
+
+        <div class="pt-4 border-top border-secondary text-end">
+
+          <small class="text-secondary d-block mt-3">
+            Secure • Fast • Trusted
+          </small>
+
+        </div>
+
+      </div>
+
+    </div>
+    <!-- MOBILE NAVBAR ENDS -->
+
+  </header>
+  <!-- HEADER ENDS -->
+
+  <!-- MAIN SECTION STARTS -->
+  <main>
+    <!-- SECTION 1 STARTS -->
+    <section class="section1 container-fluid p-3 bg-body-tertiary"
+      style="background: linear-gradient(85deg, #00102a, #093c94);">
+      <div id="main-content">
+
+        <div class="emiCalPage">
+
+          <div class="container">
+            <div class="row g-4 align-items-stretch">
+
+              <!-- LEFT : INPUT PANEL -->
+              <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="h-100 p-4 bg-white rounded-4 shadow-lg border">
+
+                  <div class="mb-3">
+                    <h4 class="fw-bold mb-1">EMI Calculator</h4>
+                    <p class="text-muted mb-0 small">
+                      Calculate your monthly loan commitment instantly
+                    </p>
+                  </div>
+
+                  <div class="mb-3">
+                    <label class="fw-semibold text-secondary small mb-1">
+                      Principal Amount
+                    </label>
+                    <input type="text" id="principal" class="form-control" placeholder="₹ 10,00,000"
+                      oninput="formatAndCalculate()" required>
+                  </div>
+
+                  <div class="mb-3">
+                    <label class="fw-semibold text-secondary small mb-1">
+                      Interest Rate (Annual %)
+                    </label>
+                    <input type="number" id="rate" class="form-control" placeholder="Eg: 8.5" oninput="calculateEMI()"
+                      required>
+                  </div>
+
+                  <div class="mb-3">
+                    <label class="fw-semibold text-secondary small mb-2">
+                      Loan Tenure
+                    </label>
+                    <div class="d-flex flex-column flex-md-row gap-2">
+                      <input type="number" id="tenure" class="form-control" placeholder="Duration"
+                        oninput="calculateEMI()" required>
+
+                      <select id="tenureType" class="form-select" onchange="calculateEMI()">
+                        <option value="years" selected>Years</option>
+                        <option value="months">Months</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <!-- RESULT PANEL -->
+                  <div id="result" class="mt-3 p-3 rounded-4 bg-primary bg-opacity-10 border border-primary-subtle">
+
+                    <p class="fw-bold fs-5 mb-2 text-dark">
+                      ₹ <span id="emi">0.00</span>
+                      <span class="fs-6 fw-medium text-muted">/ month</span>
+                    </p>
+
+                    <hr class="my-2">
+
+                    <div class="d-flex justify-content-between mb-1 small">
+                      <span class="text-muted">Principal</span>
+                      <span class="fw-semibold">
+                        ₹ <span id="principalAmount">—</span>
+                      </span>
+                    </div>
+
+                    <div class="d-flex justify-content-between mb-1 small">
+                      <span class="text-muted">Interest</span>
+                      <span class="fw-semibold">
+                        ₹ <span id="interestAmount">—</span>
+                      </span>
+                    </div>
+
+                    <div class="d-flex justify-content-between pt-2 border-top small">
+                      <span class="fw-semibold">Total Payable</span>
+                      <span class="fw-bold">
+                        ₹ <span id="totalPayable">—</span>
+                      </span>
+                    </div>
+
+                  </div>
+
+                </div>
+              </div>
+
+              <!-- RIGHT : CHART PANEL -->
+              <div class="col-lg-6 col-md-6 col-sm-12">
+                <div
+                  class="h-100 p-4 bg-white rounded-4 shadow-lg border d-flex flex-column justify-content-center align-items-center position-relative">
+
+                  <h6 class="fw-bold mb-1">
+                    Loan Distribution
+                  </h6>
+                  <p class="text-muted text-center small mb-3">
+                    Principal vs Interest Breakdown
+                  </p>
+
+                  <div class="d-flex justify-content-center align-items-center w-100">
+                    <div class="position-relative" style="width: 360px; height: 360px;">
+                      <canvas id="loanChart" width="360" height="360" class="w-100 h-100"></canvas>
+                    </div>
+                  </div>
+
+
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+          <!-- TABLE -->
+          <div class="container mt-5">
+            <div class="bg-white rounded-4 shadow-lg border p-3 p-lg-4">
+
+              <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="fw-bold mb-0">
+                  Amortization Schedule
+                </h5>
+                <span class="badge bg-primary bg-opacity-10 text-primary">
+                  Year-wise Breakdown
+                </span>
+              </div>
+
+              <div class="table-responsive">
+                <table class="table table-hover align-middle text-center mb-0">
+                  <thead class="table-light">
+                    <tr class="text-secondary">
+                      <th>Year</th>
+                      <th>Opening Balance</th>
+                      <th>Annual EMI</th>
+                      <th>Interest Paid</th>
+                      <th>Principal Paid</th>
+                      <th>Closing Balance</th>
+                    </tr>
+                  </thead>
+                  <tbody id="amortizationSchedule"></tbody>
+                </table>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <!-- SECTION 1 ENDS -->
+
+    <!-- SECTION 2 STARTS -->
+    <section class="section2 container-fluid py-5" style="background:#eef1f6;">
+      <div class="container">
+
+        <!-- Header -->
+        <div class="text-center mb-5">
+          <span class="badge rounded-pill px-3 py-2 mb-3" style="background:#eef1f6; color:#093c94;
+            box-shadow: inset 4px 4px 8px #cfd3dc, inset -4px -4px 8px #ffffff;">
+            EMI • Credit • Lending Logic
+          </span>
+
+          <h2 class="fw-semibold mt-3 mb-2" style="color:#00102a;">
+            EMI Intelligence Layer
+          </h2>
+
+          <p class="text-muted mb-0">
+            A calm, data-backed view of how your EMI really impacts approval
+          </p>
+        </div>
+
+        <!-- Core Soft Surface -->
+        <div class="row justify-content-center mb-5">
+          <div class="col-lg-11">
+            <div class="p-5 rounded-5" style="
+                background:#eef1f6;
+                box-shadow:
+                  14px 14px 28px #cfd3dc,
+                  -14px -14px 28px #ffffff;
+              ">
+
+              <!-- Inner Cards -->
+              <div class="row g-4">
+
+                <!-- Card 1 -->
+                <div class="col-md-4">
+                  <div class="p-4 rounded-4 h-100" style="
+                      background:#eef1f6;
+                      box-shadow:
+                        inset 6px 6px 12px #cfd3dc,
+                        inset -6px -6px 12px #ffffff;
+                    ">
+                    <h6 class="fw-semibold mb-2" style="color:#00102a;">
+                      EMI Comfort Zone
+                    </h6>
+                    <p class="text-muted small mb-0">
+                      When EMI stays under <strong>40%</strong>, lenders see stability — not stress.
+                    </p>
+                  </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="col-md-4">
+                  <div class="p-4 rounded-4 h-100" style="
+                      background:#eef1f6;
+                      box-shadow:
+                        inset 6px 6px 12px #cfd3dc,
+                        inset -6px -6px 12px #ffffff;
+                    ">
+                    <h6 class="fw-semibold mb-2" style="color:#00102a;">
+                      Interest Sensitivity
+                    </h6>
+                    <p class="text-muted small mb-0">
+                      Lower EMI feels easy today, but long tenure silently increases cost.
+                    </p>
+                  </div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="col-md-4">
+                  <div class="p-4 rounded-4 h-100" style="
+                      background:#eef1f6;
+                      box-shadow:
+                        inset 6px 6px 12px #cfd3dc,
+                        inset -6px -6px 12px #ffffff;
+                    ">
+                    <h6 class="fw-semibold mb-2" style="color:#00102a;">
+                      Credit Strength
+                    </h6>
+                    <p class="text-muted small mb-0">
+                      Good credit doesn’t just approve loans — it reduces EMI pressure.
+                    </p>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <!-- Bottom Insight Panels -->
+        <div class="row g-4 justify-content-center">
+
+          <!-- Left -->
+          <div class="col-lg-5">
+            <div class="p-4 rounded-5 h-100" style="
+                background:#eef1f6;
+                box-shadow:
+                  12px 12px 24px #cfd3dc,
+                  -12px -12px 24px #ffffff;
+              ">
+              <h5 class="fw-semibold mb-3" style="color:#00102a;">
+                How Banks Interpret Your EMI
+              </h5>
+
+              <div class="small text-muted">
+                <div class="mb-2">• EMI-to-income ratio</div>
+                <div class="mb-2">• Existing loan burden</div>
+                <div class="mb-2">• Credit repayment behavior</div>
+                <div>• Emergency cash buffer</div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Right -->
+          <div class="col-lg-5">
+            <div class="p-4 rounded-5 h-100" style="
+                background:#eef1f6;
+                box-shadow:
+                  12px 12px 24px #cfd3dc,
+                  -12px -12px 24px #ffffff;
+              ">
+              <h5 class="fw-semibold mb-3" style="color:#00102a;">
+                Signals of a Low-Risk Borrower
+              </h5>
+
+              <div class="row small text-muted">
+                <div class="col-6 mb-2">✔ EMI buffer</div>
+                <div class="col-6 mb-2">✔ Clean credit history</div>
+                <div class="col-6 mb-2">✔ Emergency fund</div>
+                <div class="col-6 mb-2">✔ Stable income</div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Footer Note -->
+        <div class="text-center mt-5">
+          <p class="small text-muted mb-0">
+            This insight layer complements your EMI calculator — it does not replace financial advice.
+          </p>
+        </div>
+
+      </div>
+    </section>
+    <!-- SECTION 2 ENDS -->
+
+  </main>
+  <!-- MAIN SECTION ENDS -->
+
+  <!-- FOOTER STARTS -->
+  <footer class="text-light pt-5 pb-4" style="background: linear-gradient(85deg, #00102a, #093c94);">
+
+    <div class="container px-3 px-md-4">
+
+      <div class="row gy-4 text-center text-md-start">
+
+        <!-- Brand -->
+        <div class="col-12 col-md-4">
+          <h5 class="site-name">Crelo</h5>
+          <p class="small mt-2 mb-0">
+            A smart platform to understand your loan approval chances using secure,
+            data-driven insights.
+          </p>
+        </div>
+
+        <!-- Mobile Divider -->
+        <hr class="d-md-none my-3 opacity-50">
+
+        <!-- Navigation -->
+        <div class="col-6 col-md-2">
+          <h6 class="fw-semibold">Quick Links</h6>
+          <ul class="list-unstyled mt-3 mb-0">
+            <li class="mb-2"><a href="index.html" class="text-white text-decoration-none">Home</a></li>
+            <li class="mb-2"><a href="loanapproval.html" class="text-white text-decoration-none">Loan Approval</a></li>
+            <li class="mb-2"><a href="emiCal.html" class="text-white text-decoration-none">Emi Calculator</a></li>
+            <li><a href="tips.html" class="text-white text-decoration-none">Tips & Tricks</a></li>
+          </ul>
+        </div>
+
+        <!-- Legal -->
+        <div class="col-6 col-md-3">
+          <h6 class="fw-semibold">Legal</h6>
+          <ul class="list-unstyled mt-3 mb-0">
+            <li class="mb-2"><a href="#" class="text-white text-decoration-none">Privacy Policy</a></li>
+            <li class="mb-2"><a href="#" class="text-white text-decoration-none">Terms of Service</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Data Security</a></li>
+          </ul>
+        </div>
+
+        <!-- Mobile Divider -->
+        <hr class="d-md-none my-3 opacity-50">
+
+        <!-- Trust -->
+        <div class="col-12 col-md-3">
+          <h6 class="fw-semibold">Trust & Security</h6>
+          <p class="small mt-3 mb-0">
+            Your information is processed securely and never shared without your consent.
+            Checking approval chances does not affect your credit score.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Desktop Divider -->
+      <hr class="border-secondary my-4 d-none d-md-block">
+
+      <!-- Bottom -->
+      <div class="d-flex flex-column flex-md-row justify-content-between align-items-center text-center text-md-start">
+
+        <p class="small mb-2 mb-md-0">
+          © 2025 Crelo. All rights reserved.
+        </p>
+
+        <p class="small mb-0">
+          Built for clarity. Designed for trust.
+        </p>
+
+      </div>
+
+    </div>
+  </footer>
+  <!-- FOOTER ENDS -->
+
+
+
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="../static/js/emiCal.js"></script>
+
+</html>

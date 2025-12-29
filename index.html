@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Crelo | Smart Loan Eligibility & EMI Calculator</title>
+  <meta name="description"
+    content="Crelo helps you check loan eligibility, calculate EMI, and understand approval chances instantly using smart financial insights. Fast, free, and secure.">
+
+  <link rel="stylesheet" href="../static/css/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.7.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+
+<body>
+
+  <!-- HEADER STARTS -->
+  <header class="sticky-top bg-light shadow-sm">
+    <div class="container py-3">
+      <div class="d-flex justify-content-between align-items-center">
+
+        <!-- LEFT SIDE -->
+        <nav class="d-none d-md-flex gap-4">
+          <a href="index.html" class="text-dark text-decoration-none active fw-bold nav-link"
+            aria-current="page">Home</a>
+          <a href="loanapproval.html" class="text-dark text-decoration-none nav-link">Loan Approval</a>
+        </nav>
+
+        <!-- HAMBUGER MENU LEFT -->
+        <button class="btn d-md-none" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu1">
+          <i class="ri-menu-2-fill fs-4 text-black fw-semibold"></i>
+        </button>
+
+        <!-- LOGO -->
+        <div class="text-center">
+          <h3 class="site-name">Crelo</h3>
+          <!-- <img src="assets/img/Logo.png" alt="Company Logo" class="img-fluid" style="max-height: 45px;"> -->
+        </div>
+
+        <!-- RIGHT SIDE -->
+        <nav class="d-none d-md-flex gap-4">
+          <a href="emiCal.html" class="text-dark text-decoration-none nav-link">EMI Calculator</a>
+          <a href="tips.html" class="text-dark text-decoration-none nav-link">Tips & Tricks</a>
+        </nav>
+
+        <!-- HANDBURGER MENU RIGHT -->
+        <button class="btn d-md-none" data-bs-toggle="offcanvas" data-bs-target="#mobileMenu2">
+          <i class="ri-menu-3-fill fs-4 text-black fw-semibold"></i>
+        </button>
+      </div>
+    </div>
+
+    <!-- MOBILE NAVBAR STARTS -->
+    <div class="offcanvas offcanvas-start bg-dark text-white" tabindex="-1" id="mobileMenu1">
+
+      <div class="offcanvas-header border-bottom border-secondary px-4">
+        <div class="d-flex flex-column">
+          <h5 class="offcanvas-title fw-bold mb-0">Navigation</h5>
+          <small class="text-secondary">Manage & Explore</small>
+        </div>
+
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+
+      <div class="offcanvas-body px-4 py-4 d-flex flex-column justify-content-between">
+
+        <div class="d-flex flex-column gap-2 fw-semibold">
+
+          <a href="index.html"
+            class="nav-link text-white d-flex align-items-center gap-3 py-2 rounded bg-secondary bg-opacity-25">
+            <span class="text-info fw-bold">▸</span> Home
+          </a>
+
+          <a href="loanapproval.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Loan Approval
+          </a>
+
+          <a href="emiCal.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> EMI Calculator
+          </a>
+
+          <a href="tips.html" class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded">
+            <span class="text-info">▸</span> Tips & Tricks
+          </a>
+
+        </div>
+
+        <div class="pt-4 border-top border-secondary">
+
+          <small class="text-secondary d-block mt-3">
+            Secure • Fast • Trusted
+          </small>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="offcanvas offcanvas-end bg-dark text-white" tabindex="-1" id="mobileMenu2">
+
+      <div class="offcanvas-header border-bottom border-secondary px-4">
+
+        <div class=" d-flex align-items-center justify-content-between w-100">
+
+          <div>
+            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas"
+              aria-label="Close"></button>
+          </div>
+
+          <div>
+            <div class="d-flex flex-column">
+              <h5 class="offcanvas-title text-end fw-bold mb-0">Navigation</h5>
+              <small class="text-secondary">Manage & Explore</small>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="offcanvas-body px-4 py-4 d-flex flex-column justify-content-between text-end">
+
+        <div class="d-flex flex-column gap-2 fw-semibold align-items-end">
+
+          <a href="index.html"
+            class="nav-link text-white d-flex align-items-center gap-3 py-2 rounded bg-secondary bg-opacity-25 justify-content-end w-100">
+            Home <span class="text-info fw-bold">◂</span>
+          </a>
+
+          <a href="loanapproval.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Loan Approval <span class="text-info">◂</span>
+          </a>
+
+          <a href="emiCal.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            EMI Calculator <span class="text-info">◂</span>
+          </a>
+
+          <a href="tips.html"
+            class="nav-link text-secondary d-flex align-items-center gap-3 py-2 rounded justify-content-end w-100">
+            Tips & Tricks <span class="text-info">◂</span>
+          </a>
+
+        </div>
+
+        <div class="pt-4 border-top border-secondary text-end">
+
+          <small class="text-secondary d-block mt-3">
+            Secure • Fast • Trusted
+          </small>
+
+        </div>
+
+      </div>
+
+    </div>
+    <!-- MOBILE NAVBAR ENDS -->
+
+  </header>
+  <!-- HEADER ENDS -->
+
+  <!-- MAIN SECTION SATRTS -->
+  <main>
+
+    <!-- SECTION 1 STARTS -->
+    <section
+      class="section1 container-fluid d-flex flex-column flex-lg-row align-items-center justify-content-between overflow-hidden px-4 px-md-5"
+      style="
+    min-height:100vh;
+    background: linear-gradient(135deg, #00102a 0%, #093c94 100%);
+    clip-path: polygon(100% 0, 100% 100%, 82% 90%, 0 100%, 0 0);
+  ">
+
+      <!-- LEFT : CONTENT -->
+      <div class="content col-12 col-lg-6 text-center text-lg-start py-5 pe-lg-5">
+
+        <!-- Micro trust tag -->
+        <span class="badge rounded-pill px-3 py-2 mb-4" style="
+        background: rgba(255,255,255,0.12);
+        color:#eaf1ff;
+        backdrop-filter: blur(6px);
+      ">
+          Trusted • Secure • Transparent
+        </span>
+
+        <!-- Headline -->
+        <h1 class="text-white fw-semibold mb-4 lh-sm">
+          Loan approvals,<br>
+          <span style="color:#b9d6ff;">made simple</span>
+        </h1>
+
+        <!-- Description -->
+        <p class="text-white-50 mb-5 lh-lg" style="max-width:520px;">
+          Check your loan eligibility instantly with clear insights.
+          No confusion, no hidden steps — just a secure and transparent
+          way to understand your approval chances.
+        </p>
+
+        <!-- CTA -->
+        <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center justify-content-lg-start">
+
+          <!-- PRIMARY CTA -->
+          <a href="loanapproval.html"
+            class="btn px-4 py-2 fw-medium d-inline-flex align-items-center justify-content-center gap-2 text-decoration-none"
+            style="
+      background: linear-gradient(135deg, #0b4edb, #093c94);
+      color:#ffffff;
+      border:none;
+      box-shadow: 0 12px 28px rgba(0,0,0,0.25);
+      transition: all .25s ease;
+    " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 18px 36px rgba(0,0,0,0.35)'"
+            onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 28px rgba(0,0,0,0.25)'">
+            Quick Check
+            <span class="fw-bold">→</span>
+          </a>
+
+          <!-- SECONDARY CTA -->
+          <a href="tips.html"
+            class="btn px-4 py-2 fw-medium d-inline-flex align-items-center justify-content-center gap-2 text-decoration-none"
+            style="
+      background: rgba(255,255,255,0.08);
+      color:#eaf1ff;
+      border:1px solid rgba(255,255,255,0.35);
+      backdrop-filter: blur(6px);
+      transition: all .25s ease;
+    " onmouseover="this.style.background='rgba(255,255,255,0.18)'"
+            onmouseout="this.style.background='rgba(255,255,255,0.08)'">
+            Learn More
+            <span style="font-size:0.9rem;">↗</span>
+          </a>
+
+        </div>
+
+
+      </div>
+
+      <!-- RIGHT : VISUAL -->
+      <div class="col-12 col-lg-6 d-flex justify-content-center justify-content-lg-end mt-5 mt-lg-0 position-relative">
+
+        <!-- Soft glow behind image -->
+        <div style="
+        position:absolute;
+        width:320px;
+        height:320px;
+        background: radial-gradient(circle, rgba(255,215,0,0.25), transparent 70%);
+        filter: blur(40px);
+        z-index:0;
+      ">
+        </div>
+
+        <img src="../static/img/Rupee.png" id="rupeeFloat" alt="Indian Rupee Gold Coin"
+          class="img-fluid position-relative" style="max-width:460px; z-index:1;">
+
+      </div>
+
+    </section>
+    <!-- SECTION 1 ENDS -->
+
+    <!-- SECTION 2 STARTS -->
+    <section class="container-fluid py-5">
+
+      <!-- Heading -->
+      <div class="row justify-content-center mb-4">
+        <div class="col-12 col-lg-8 text-center px-3">
+          <h2 class="fw-semibold">How It Works</h2>
+          <p class="text-muted mt-2 mb-0">
+            Understand your loan approval chances in a few simple steps.
+          </p>
+        </div>
+      </div>
+
+      <!-- Steps -->
+      <div class="row justify-content-center">
+        <div class="col-12 col-lg-9 px-3">
+
+          <!-- Step 01 -->
+          <div class="d-flex flex-column flex-sm-row gap-3 gap-sm-4 py-4 border-bottom">
+            <div class="fw-semibold text-primary fs-4">01</div>
+            <div>
+              <h6 class="fw-semibold mb-1">Choose Your Bank</h6>
+              <p class="text-muted mb-0">
+                Select your preferred bank so the prediction aligns with its usual lending process.
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 02 -->
+          <div class="d-flex flex-column flex-sm-row gap-3 gap-sm-4 py-4 border-bottom">
+            <div class="fw-semibold text-primary fs-4">02</div>
+            <div>
+              <h6 class="fw-semibold mb-1">Select Loan Type</h6>
+              <p class="text-muted mb-0">
+                Choose the loan you are applying for, such as personal, home, education, or vehicle.
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 03 -->
+          <div class="d-flex flex-column flex-sm-row gap-3 gap-sm-4 py-4 border-bottom">
+            <div class="fw-semibold text-primary fs-4">03</div>
+            <div>
+              <h6 class="fw-semibold mb-1">Enter Your Details</h6>
+              <p class="text-muted mb-0">
+                Provide key details like income, employment status, credit score, loan amount, and duration.
+              </p>
+            </div>
+          </div>
+
+          <!-- Step 04 -->
+          <div class="d-flex flex-column flex-sm-row gap-3 gap-sm-4 py-4">
+            <div class="fw-semibold text-primary fs-4">04</div>
+            <div>
+              <h6 class="fw-semibold mb-1">Get Instant Result</h6>
+              <p class="text-muted mb-0">
+                Instantly see your approval chances along with helpful suggestions if improvements are needed.
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </section>
+    <!-- SECTION 2 ENDS -->
+
+    <!-- SECTION 3 STARTS -->
+    <section class="section3 container-fluid py-5 px-3 px-md-4 px-lg-5
+d-flex flex-column align-items-center justify-content-center" style="background-color: #eaebed;
+clip-path: polygon(19% 11%, 100% 0, 100% 100%, 0 100%, 0 0);">
+
+      <!-- Title -->
+      <h2 class="fw-semibold text-center mt-5">Our Features</h2>
+      <p class="text-muted text-center mt-2 mb-4 mb-md-5">
+        Everything you need to understand your loan options clearly.
+      </p>
+
+      <!-- Grid -->
+      <div class="row g-4 w-100 justify-content-center">
+
+        <!-- Large Card -->
+        <div class="col-12 col-lg-6">
+          <div class="h-100 p-4 rounded-4 shadow-sm text-white feature-card"
+            style="background: linear-gradient(135deg, #00102a, #093c94);">
+
+            <h4 class="fw-bold mb-3">Instant Approval Check</h4>
+            <p class="mb-0 opacity-75">
+              Quickly know whether your loan is likely to be approved — clear and simple.
+            </p>
+          </div>
+        </div>
+
+        <!-- Tall Card -->
+        <div class="col-12 col-sm-6 col-lg-3">
+          <div class="h-100 p-4 rounded-4 shadow-sm bg-light feature-card">
+
+            <h5 class="fw-bold mb-2">Secure Data</h5>
+            <p class="text-secondary mb-0">
+              Your information is protected with strong security practices.
+            </p>
+          </div>
+        </div>
+
+        <!-- Small Card -->
+        <div class="col-12 col-sm-6 col-lg-3">
+          <div class="h-100 p-4 rounded-4 shadow-sm bg-light feature-card">
+
+            <h5 class="fw-bold mb-2">Clear Results</h5>
+            <p class="text-secondary mb-0">
+              Simple yes-or-no approval insights without confusion.
+            </p>
+          </div>
+        </div>
+
+        <!-- Wide Card -->
+        <div class="col-12 col-lg-8">
+          <div class="h-100 p-4 rounded-4 shadow-sm bg-light feature-card">
+
+            <h5 class="fw-bold mb-2">Fast & Transparent</h5>
+            <p class="text-secondary mb-0">
+              No hidden steps. No long forms. Just quick and clear results.
+            </p>
+          </div>
+        </div>
+
+        <!-- Accent Card -->
+        <div class="col-12 col-lg-4">
+          <div class="h-100 p-4 rounded-4 shadow-sm text-white feature-card"
+            style="background: linear-gradient(135deg, #0a1f44, #00102a);">
+
+            <h5 class="fw-bold mb-2">Built for Confidence</h5>
+            <p class="mb-0 opacity-75">
+              Designed to help you decide with clarity and trust.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- SECTION 3 ENDS -->
+
+  </main>
+  <!-- MAIN SECTION ENDS -->
+
+  <!-- FOOTER STARTS -->
+  <footer class="text-light pt-5 pb-4" style="background: linear-gradient(85deg, #00102a, #093c94);">
+
+    <div class="container px-3 px-md-4">
+
+      <div class="row gy-4 text-center text-md-start">
+
+        <!-- Brand -->
+        <div class="col-12 col-md-4">
+          <h5 class="site-name">Crelo</h5>
+          <p class="small mt-2 mb-0">
+            A smart platform to understand your loan approval chances using secure,
+            data-driven insights.
+          </p>
+        </div>
+
+        <!-- Mobile Divider -->
+        <hr class="d-md-none my-3 opacity-50">
+
+        <!-- Navigation -->
+        <div class="col-6 col-md-2">
+          <h6 class="fw-semibold">Quick Links</h6>
+          <ul class="list-unstyled mt-3 mb-0">
+            <li class="mb-2"><a href="index.html" class="text-white text-decoration-none">Home</a></li>
+            <li class="mb-2"><a href="loanapproval.html" class="text-white text-decoration-none">Loan Approval</a></li>
+            <li class="mb-2"><a href="emiCal.html" class="text-white text-decoration-none">Emi Calculator</a></li>
+            <li><a href="tips.html" class="text-white text-decoration-none">Tips & Tricks</a></li>
+          </ul>
+        </div>
+
+        <!-- Legal -->
+        <div class="col-6 col-md-3">
+          <h6 class="fw-semibold">Legal</h6>
+          <ul class="list-unstyled mt-3 mb-0">
+            <li class="mb-2"><a href="#" class="text-white text-decoration-none">Privacy Policy</a></li>
+            <li class="mb-2"><a href="#" class="text-white text-decoration-none">Terms of Service</a></li>
+            <li><a href="#" class="text-white text-decoration-none">Data Security</a></li>
+          </ul>
+        </div>
+
+        <!-- Mobile Divider -->
+        <hr class="d-md-none my-3 opacity-50">
+
+        <!-- Trust -->
+        <div class="col-12 col-md-3">
+          <h6 class="fw-semibold">Trust & Security</h6>
+          <p class="small mt-3 mb-0">
+            Your information is processed securely and never shared without your consent.
+            Checking approval chances does not affect your credit score.
+          </p>
+        </div>
+
+      </div>
+
+      <!-- Desktop Divider -->
+      <hr class="border-secondary my-4 d-none d-md-block">
+
+      <!-- Bottom -->
+      <div class="d-flex flex-column flex-md-row justify-content-between align-items-center text-center text-md-start">
+
+        <p class="small mb-2 mb-md-0">
+          © 2025 Crelo. All rights reserved.
+        </p>
+
+        <p class="small mb-0">
+          Built for clarity. Designed for trust.
+        </p>
+
+      </div>
+
+    </div>
+  </footer>
+  <!-- FOOTER ENDS -->
+
+</body>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.13.0/gsap.min.js"></script>
+<script src="https://unpkg.com/gsap@3/dist/gsap.min.js"></script>
+<script src="https://unpkg.com/gsap@3/dist/ScrollTrigger.min.js"></script>
+
+<script src="../static/js/script.js"></script>
+
+
+</html>
