@@ -141,7 +141,7 @@ function updateChart(principal, interest) {
     // If inputs are invalid, show a default image
     if (isNaN(principal) || isNaN(interest) || principal <= 0 || interest < 0) {
         let img = new Image();
-        img.src = "../static/img/pieChart.jpg"; // Replace with your image path
+        img.src = "static/img/pieChart.jpg"; // Replace with your image path
         img.onload = function () {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
