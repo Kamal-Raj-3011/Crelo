@@ -137,3 +137,51 @@ document.addEventListener("DOMContentLoaded", () => {
 //   duration: 0.6,
 //   ease: "power2.out"
 // });
+
+// KEY DISABLE CODES
+document.addEventListener('contextmenu',
+function(event){
+    event.preventDefault();
+})
+
+document.addEventListener("keydown", function (e) {
+
+    const key = e.key.toLowerCase();
+
+    // F12
+    if (key === "f12") {
+        e.preventDefault();
+        return false;
+    }
+
+    // Ctrl + U (View Source)
+    if (e.ctrlKey && key === "u") {
+        e.preventDefault();
+        return false;
+    }
+
+    // Ctrl + I
+    if (e.ctrlKey && key === "i") {
+        e.preventDefault();
+        return false;
+    }
+
+    // Ctrl + Shift + I (DevTools)
+    if (e.ctrlKey && e.shiftKey && key === "i") {
+        e.preventDefault();
+        return false;
+    }
+
+    // Ctrl + Shift + J (Console)
+    if (e.ctrlKey && e.shiftKey && key === "j") {
+        e.preventDefault();
+        return false;
+    }
+
+    // Ctrl + Shift + C (Inspect)
+    if (e.ctrlKey && e.shiftKey && key === "c") {
+        e.preventDefault();
+        return false;
+    }
+
+});
